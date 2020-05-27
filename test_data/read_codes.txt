@@ -1,0 +1,3238 @@
+read_code	description
+03G2.	Retail pharmacist
+07...	Clerical occupations
+0Z...	Other occupations
+11541	No significant family history of cardiovascular disease
+12...	Family history
+121..	Family history taken
+122..	No relevant family history
+1225.	No FH: Stroke/TIA
+1227.	No FH: Hypertension
+1228.	No family history diabetes
+1251.	FH: Thyroid disorder
+1252.	FH: Diabetes mellitus
+12A1.	FH: Glaucoma
+12C1.	FH: Hypertension
+12C3.	FH: Ischaemic heart disease >60 (& [myocardial infarction] or [angina])
+12D2.	FH: Asthma
+12D4.	FH: Hay fever
+136..	Alcohol intake
+1361.	Teetotaller
+1362.	Drinks: [rarely] or [<1u/day]
+1363.	Light drinker - 1-2u/day
+1364.	Moderate drinker - 3-6u/day
+136J.	Social drinker
+1373.	Light cigarette smoker (1-9 cigs/day)
+1374.	Moderate cigarette smoker (10-19 cigs/day)
+1375.	Heavy cigarette smoker (20-39 cigs/day)
+1377.	Ex-trivial smoker (<1/day)
+1378.	Ex-light smoker (1-9/day)
+1379.	Ex-moderate smoker (10-19/day)
+137A.	Ex-heavy smoker (20-39/day)
+137F.	Ex-smoker - amount unknown
+137G.	Trying to give up smoking
+137J.	Cigar smoker
+137K.	Stopped smoking
+137L.	Current non-smoker
+137M.	Rolls own cigarettes
+137R.	Smoker
+137T.	Date ceased smoking
+138..	Exercise grading
+1381.	Exercise physically impossible
+1382.	Avoids even trivial exercise
+1383.	Enjoys light exercise
+1384.	Enjoys moderate exercise
+1385.	Enjoys heavy exercise
+1389.	Aerobic exercise once a week
+138A.	Aerobic exercise twice a week
+138B.	Aerobic exercise three or more times per week
+13A4.	Low fat diet
+13AZ.	Patient-initiated diet NOS
+13C9.	Has other personal transport
+13J5.	Retired
+13V2.	Not on a special diet
+13WF4	Passive smoking risk
+13X6.	Travel abroad on holiday
+13XB.	Going to travel abroad
+13XC.	Date of return from travel
+1465.	H/O: depression
+14L..	H/O: drug allergy
+14M..	H/O: non-drug allergy
+1512.	Menopause
+1513.	Last menstrual period -1st day
+1514.	Estimated date of delivery
+1516.	Usual length of menstrual cycle
+1519.	Wishes to postpone menstruation
+152..	Parity
+1561.	H/O: oral contraceptive usage
+15C..	Vaginal irritation
+1682.	Fatigue
+16C..	Backache symptom
+16C2.	Backache
+16C5.	C/O - low back pain
+16C6.	Back pain without radiation NOS
+16E..	Feels unwell
+1711.	No cough
+1712.	Dry cough
+1713.	Productive cough -clear sputum
+1714.	Productive cough -green sputum
+1715.	Productive cough-yellow sputum
+1717.	Night cough present
+1718.	Night cough absent
+1719.	Chesty cough
+171A.	Chronic cough
+1731.	No breathlessness
+1732.	Breathless - moderate exertion
+173A.	Exercise-induced asthma
+173Z.	Breathlessness NOS
+176..	C/O - catarrh
+182..	Chest pain
+1825.	Pleuritic pain
+1828.	Atypical chest pain
+1922.	Sore mouth
+1954.	Indigestion
+1955.	Heartburn
+1962.	Abdominal colic
+1968.	Abdominal discomfort
+1969.	Abdominal pain
+1972.	Epigastric pain
+1977.	Right iliac fossa pain
+1978.	Left iliac fossa pain
+197B.	Upper abdominal pain
+197C.	Lower abdominal pain
+19EA.	Altered bowel function
+19F2.	Diarrhoea
+1A13.	Nocturia
+1A41.	Urine looks normal
+1A55.	Dysuria
+1A57.	Pain in testicle
+1A59.	C/O pelvic pain
+1A7..	Vaginal discharge symptom
+1A72.	Vaginal discharge present
+1A82.	Breast lump present
+1AA..	Prostatism
+1B17.	(Depressed) or (C/O feeling: [depressed] or [unhappy])
+1B1L.	Stress-related problem
+1B41.	Pins and needles
+1B43.	Has tingling sensation
+1B44.	Has numbness
+1B8..	Eye symptoms
+1B88.	Dry eyes
+1BA1.	No headache
+1C12.	Hearing difficulty
+1C3..	Earache symptoms
+1C6..	Nosebleed/epistaxis symptom
+1C7..	Snoring symptoms
+1C84.	C/O - postnasal drip
+1D14.	C/O: a rash
+1D4..	Time symptom lasts
+2128.	Patient's condition the same
+2257.	O/E - depressed
+229..	O/E - height
+22A..	O/E - weight
+22C1.	O/E - oedema not present
+22C2.	O/E - oedema of ankles
+22K..	Body mass index - observation
+22L2.	O/E - Wound healing well
+2326.	O/E - expiratory wheeze
+2331.	O/E - chest expansion normal
+235..	O/E - rate of respiration
+2381.	O/E - trachea central
+23A1.	O/E - percussion note normal
+23B1.	O/E - breath sounds normal
+23D1.	O/E - no adventitious sounds
+23D3.	O/E - coarse crepitations
+242..	O/E - pulse rate
+2431.	O/E - pulse rhythm regular
+2432.	O/E - pulse irregularly irreg.
+246..	O/E - blood pressure reading
+2469.	O/E - Systolic BP reading
+246A.	O/E - Diastolic BP reading
+24B1.	O/E - heart sounds normal
+24D1.	O/E - no cardiac murmur
+24E1.	O/E -R.-leg pulses all present
+24E2.	O/E - R.femoral pulse present
+24E4.	O/E -R.popliteal pulse present
+24E6.	O/E - R.post.tib.pulse present
+24E7.	O/E - R.post.tib pulse absent
+24E8.	O/E - R.dorsalis pedis present
+24F1.	O/E - L.leg pulses all present
+24F2.	O/E - L.femoral pulse present
+24F4.	O/E -L.popliteal pulse present
+24F6.	O/E - L.post.tib.pulse present
+24F7.	O/E - L.post.tib. pulse absent
+24F8.	O/E - L.dorsalis pedis present
+24F9.	O/E - L.dorsalis pedis absent
+2516.	Abdomen examined - NAD
+2681.	O/E - bi-manual VE - NAD
+2691.	O/E-vaginal speculum exam. NAD
+26A1.	O/E - no vaginal discharge
+271..	O/E - gravid uterus size
+271B.	O/E - fundal size = dates
+2721.	O/E - vertex presentation
+2741.	O/E - presenting part free-5/5
+275..	O/E - fetal movements
+2753.	O/E - fetal movements felt
+276..	O/E - fetal heart heard
+2766.	O/E - fetal heart 120-160
+2991.	O/E - gait normal
+29B1.	O/E - tactile sensation normal
+29H1.	O/E - vibration sense normal
+29H2.	O/E - vibration sense reduced
+2B6..	O/E - visual acuity R-eye
+2B61.	O/E - visual acuity R-eye =6/5
+2B62.	O/E - visual acuity R-eye =6/6
+2B63.	O/E - visual acuity R-eye =6/9
+2B7..	O/E - visual acuity L-eye
+2B71.	O/E - visual acuity L-eye =6/5
+2B72.	O/E - visual acuity L-eye =6/6
+2B73.	O/E - visual acuity L-eye =6/9
+2B74.	O/E - visual acuity L-eye=6/12
+2BA1.	O/E - optic disc normal
+2BB1.	O/E - retina normal
+2BN1.	O/E - no nystagmus
+2C31.	O/E - no lymphadenopathy
+2C32.	O/E -cervical lymphadenopathy
+2D13.	Ear examination - normal
+2D15.	Throat examination - normal
+2D82.	O/E - wax in auditory canal
+2D91.	O/E - tympanic membrane normal
+2E31.	O/E - temperature normal
+2F13.	O/E - dry skin
+2FD..	O/E - skin cyst
+2H91.	O/E - SLR normal - left=right
+2I11.	O/E - a lump
+2I14.	O/E - a rash
+3395.	Peak flow rate (& [expiratory])
+3396.	Forced vital capacity
+42H..	White blood cell count - observation
+42K..	Eosinophil count - observation
+42P..	Platelet count - observation
+44E..	Serum bilirubin level
+44F3.	Alkaline phosphatase level
+44FZ.	Serum alkaline phosphatase NOS
+44G3.	ALT/SGPT serum level (AND/OR ?[Serum alanine aminotransferase level])
+44IC.	Corrected serum calcium level
+44J1.	Blood urea normal
+44P1.	Serum cholesterol normal
+44P3.	Serum cholesterol raised
+44P5.	Serum HDL cholesterol level
+44P6.	Serum LDL cholesterol level
+44R3.	Lipoprotein electroph. - HDL
+44U7.	2 hour post-prandial blood glucose level
+44f..	Serum glucose level
+44f1.	Serum fasting glucose level
+44g1.	Plasma fasting glucose level
+535..	Standard chest X-ray
+5352.	Standard chest X-ray normal
+567..	Computed tomography
+5855.	US scan of abdomen
+61...	Contraception
+611..	General contraceptive advice
+614..	Oral contraception
+614D.	Oral contraceptive prescribed
+62R..	Postnatal visit
+62T1.	Postnatal depressive disorder
+6511.	First cholera vaccination
+6521.	First typhoid vaccination
+6522.	Second typhoid vaccination
+6523.	Booster typhoid vaccination
+653..	Tuberculosis (BCG) vaccination
+6561.	First tetanus vaccination
+6562.	Second tetanus vaccination
+6563.	Third tetanus vaccination
+6564.	Booster tetanus vaccination
+6572.	Pneumococcal vaccination
+6581.	First polio vaccination
+6584.	Booster polio vaccination
+65B..	Rubella vaccination
+65C..	Yellow fever vaccination
+65E..	Influenza vaccination
+65F1.	First hepatitis B vaccination
+65F2.	Second hepatitis B vaccination
+65F3.	Third hepatitis B vaccination
+65F4.	Booster hepatitis B vaccination
+65FA.	First hepatitis A vaccination
+65FB.	Second hepatitis A vaccination
+65FD.	Booster hepatitis A vaccination
+65I1.	First diphtheria, pertussis and tetanus triple and polio vaccination
+65J5.	Tetanus and low dose diphtheria double vaccination
+65K1.	First diphtheria and tetanus double and polio vaccination
+65K4.	Booster diphtheria and tetanus double and polio vaccination
+65L4.	Booster tetanus and polio vaccination
+65N1.	Antimalarial drug prophylaxis
+6624.	Borderline hyperten:yearly obs
+662L.	24 hr blood pressure monitoring
+662N.	CHD monitoring
+6635.	Increasing exercise wheeze
+6636.	Inhaler technique shown
+6637.	Inhaler technique observed
+663B.	Respiratory disease treatment changed
+663H.	Inhaler technique - good
+663L.	Bronchodilators used more than once daily
+663M.	Bronchodilators used a maximum of once daily
+663N.	Asthma disturbing sleep
+663O.	Asthma not disturbing sleep
+663O0	Asthma never disturbs sleep
+663P.	Asthma limiting activities
+663Q.	Asthma not limiting activities
+663S.	Peak flow meter at home
+663U.	Asthma management plan given
+663W.	Asthma prophylactic medication used
+663g0	Not using inhaled steroids
+663g1	Using inhaled steroids - normal dose
+66A..	Diabetic monitoring
+66A2.	Follow-up diabetic assessment
+66AS.	Diabetic annual review
+66B..	Thyroid disease monitoring
+66BZ.	Thyroid disease monitoring NOS
+66Q4.	Warfarin dose changed
+66QZ.	Warfarin monitoring NOS
+66R..	Repeat prescription monitoring
+66RZ.	Repeat prescription monitoring NOS
+66U7.	HRT started
+6774.	Medication counselling
+6777.	Contraception counselling
+677B.	Advice about treatment given
+6781.	Health education offered
+679..	Subject: [health education] or [advice to patient]
+6791.	Health education - smoking
+6792.	Health education - alcohol
+6795.	Health education - breast examination
+6798.	Health education - exercise
+6799.	Health education - diet
+679B.	Health education - testicular examination
+679J.	Health education - asthma
+67E..	Advice on foreign travel
+67E1.	Recommend travel vaccinations
+67E2.	Travel vaccination given
+67E3.	Requires protection against malaria
+681..	Screening - general
+685..	Cervical neoplasia screening
+68B1.	Hypertension screening
+68B5.	Aortic aneurysm screening
+68M..	Spirometry screening
+68P..	Adult screening
+68R..	New patient screening
+70560	Decompression of median nerve at wrist
+73050	Syringing ear to remove wax
+74025	Septoplasty of nose NEC
+7530.	Tonsillectomy
+75306	Tonsillectomy and adenoidectomy
+771J.	Diagnostic endoscopic examination on colon
+7734.	Haemorrhoidectomy
+7810.	Cholecystectomy
+78105	Laparoscopic cholecystectomy
+7B2A.	Diagnostic cystoscopy
+7B2A6	Flexible diagnostic cystoscopy
+7C242	Standard circumcision
+7D1C2	Colposcopy NEC
+7E034	Colposcopy of cervix
+7E086	Termination of pregnancy NEC
+7E090	Introduction of intrauterine contraceptive device
+7E0E.	Hysteroscopy
+7E1C.	Endoscopic bilateral occlusion of fallopian tubes
+7F131	Lower uterine segment caesarean delivery NEC
+7F19.	Normal delivery procedure
+7F250	Fetal heart monitoring NEC
+7G05z	Excision of lesion of skin NOS
+7G081	Cryotherapy to lesion of skin of head or neck
+7G223	Removal of suture from skin NEC
+7G2A1	Injection of steroid into subcutaneous tissue
+7H11.	Primary repair of inguinal hernia
+7H15.	Repair of umbilical hernia
+7H29.	Laparoscopy
+7K20y	Other specified total prosthetic replacement of hip joint using cement
+7K36.	Diagnostic arthroscopy of knee joint
+7K6Z2	Injection of therapeutic substance into joint
+7K6Z3	Injection into joint NEC
+7L17z	Blood withdrawal NOS
+7L18.	Intramuscular injection
+7M0N0	Acupuncture of organ NOC
+7M341	Injection of local anaesthetic NEC
+8....	Other therapeutic procedures
+81H..	Dressing of wound
+856..	Acupuncture
+8562.	Acupuncture for analgesia
+85BD.	Periarticular injection
+85BE.	Injection of carpal tunnel
+8794.	Asthma control step 1
+8795.	Asthma control step 2
+8796.	Asthma control step 3
+892..	Informed consent for procedure
+8920.	Consent for operation given
+893..	Postoperative monitoring
+8A4..	Respiratory monitoring
+8A6..	Renal function monitoring
+8B314	Medication review
+8B316	Medication changed
+8B3E.	Drug compliance good
+8B3H.	Medication requested
+8B41.	Repeated prescription
+8B57.	Weight reducing diet
+8B640	Hormone Replacement Therapy ongoing treatment
+8C15.	Nursing care - dressing
+8C17.	Nursing care - injections
+8C1B.	Nursing care blood sample taken
+8C9..	Reassurance given
+8C90.	Patient reassurance
+8CA..	Patient given advice
+8CA4.	Dietary advice
+8CA46	Patient advised about low fat diet
+8CA47	Patient advised about low cholesterol diet
+8CA48	Patient advised about low salt diet
+8CA4A	Patient advised about low carbohydrate diet
+8CA4z	Patient advised about diet NOS
+8CA5.	Patient advised about exercise
+8CA9.	Patient advised to inform DVLA
+8CAB.	Patient advised about exposure to the sun
+8CAC.	Patient advised about safe drinking - water
+8CAD.	Patient advised about the need for insect repellent
+8CAF.	Patient advised to buy medical kit
+8CAZ.	Patient given advice NOS
+8CB..	Had a chat to patient
+8CD..	Usual warning given
+8CE..	Self-help advice leaflet given
+8CE3.	Blood pressure leaflet given
+8GEA.	Care from relatives
+8H...	Referral for further care
+8H2..	Emergency hospital admission
+8H21.	Admit medical emergency unspecified
+8H3Z.	Other hospital admission NOS
+8H41.	Referral to general medical service
+8H43.	Referral to dermatology service
+8H44.	Referral to cardiology service
+8H46.	Referral to neurology service
+8H48.	Referral to gastroenterology service
+8H49.	Referral to psychiatry service
+8H5..	Referral to surgeon
+8H51.	Referral to general surgical service
+8H52.	Referral to ophthalmology service
+8H53.	Referral to ear, nose and throat service
+8H54.	Referral to orthopaedic service
+8H58.	Referral to gynaecology service
+8H62.	Referral to GP
+8H69.	Refer to pain clinic
+8H7O.	Refer to Radiology department
+8HC1.	Refer to accident and emergency department
+8HD..	Refer to hospital OPD
+8HE..	Discharged from hospital
+8HE3.	Discharged from day-case care
+8HQ1.	Refer for X-ray
+8HQ2.	Refer for ultrasound investign
+8HV..	Private referral
+8HV3.	Private referral to orthopaedic surgeon
+8P0..	Removal of skin sutures/clips
+9311.	Lloyd George and problem summary
+9313.	Lloyd George culled and summarised
+9341.	Age/sex details on computer
+9344.	Notes summary on computer
+9347.	Computer record print
+9N0M.	Seen in radiology department
+9N0X.	Seen in fracture clinic
+9N11.	Seen in GP's surgery
+9N19.	Seen in accident and emergency department
+9N1A.	Seen in hospital out-pat.
+9N1I.	Seen in urology clinic
+9N1J.	Seen in gynaecology clinic
+9N1K.	Seen in ophthalmology clinic
+9N1L.	Seen in ENT clinic
+9N1O.	Seen in rheumatology clinic
+9N1P.	Seen in cardiac clinic
+9N1Q.	Seen in diabetic clinic
+9N1R.	Seen in neurology clinic
+9N1T.	Seen in psychiatry clinic
+9N1g.	Seen in gastroenterology clinic
+9N1h.	Seen in haematology clinic
+9N1k.	Seen in pain clinic
+9N1p.	Seen in orthopaedic clinic
+9N1s.	Seen in endocrine clinic
+9N1y0	Seen in general surgery clinic
+9N1y8	Seen in oncology clinic
+9N1y9	Seen in breast clinic
+9N1yE	Seen in physiotherapy department
+9OJ4.	Asthma monitoring call first letter
+9OJ5.	Asthma monitoring call second letter
+9OJ6.	Asthma monitoring call third letter
+9S1..	White - ethnic group
+A07y0	Viral gastroenteritis
+A0812	Gastroenteritis - presumed infectious origin
+A7811	Plantar wart
+A781z	Unspecified viral warts
+AB10.	Pityriasis versicolor
+AB2..	Candidiasis
+AB200	Oral candidiasis
+AB21.	Candidal vulvovaginitis
+AB211	Vaginal candidiasis
+B34..	Malignant neoplasm of female breast
+B46..	Malignant tumour of prostate
+B641.	Chronic lymphoid leukaemia
+B74..	Lipoma
+B78..	Uterine fibroid
+C10..	Diabetes mellitus
+C2621	Cobalamin deficiency
+C324.	Hyperlipidaemia NOS
+C34z.	Gout NOS
+C380.	Obesity
+D00z.	Unspecified iron deficiency anaemia
+D00zz	Iron deficiency anaemia NOS
+E10z.	Schizophrenia NOS
+E1137	Recurrent depression
+E200.	Anxiety disorder
+E2002	Generalised anxiety disorder
+E2004	Chronic anxiety
+E2005	Recurrent anxiety
+E200z	Anxiety state NOS
+E2273	Erectile dysfunction
+E23z.	Alcohol dependence syndrome NOS
+E2B..	Depressive disorder NEC
+E2B1.	Chronic depression
+Eu320	[X]Mild depressive episode
+Eu321	[X]Moderate depressive episode
+Eu32z	[X] (Depression: [episode, unspecified] or [NOS (& reactive)] or [depressive disorder NOS]
+Eu41z	[X]Anxiety disorder, unspecified
+F13z2	Restless legs
+F20..	Multiple sclerosis
+F25..	Epilepsy
+F26..	Migraine
+F260.	Migraine with aura
+F301z	Trigeminal neuralgia NOS
+F310.	Bell's palsy
+F4200	Background diabetic retinopathy
+F45..	Glaucoma
+F46..	Cataract
+F466.	Bilateral cataracts
+F48..	Visual disturbance
+F4C30	Unspecified conjunctivitis
+F4C71	Subconjunctival haemorrhage
+F4D10	Stye
+F4D2.	Chalazion
+F501.	Infective otitis externa
+F502.	Other otitis externa
+F51y0	Eustachian tube dysfunction
+F526.	Acute left otitis media
+F527.	Acute right otitis media
+F542.	Tympanic membrane perforation
+F5611	Benign paroxysmal positional vertigo or nystagmus
+F563.	Labyrinthitis
+F5635	Viral labyrinthitis
+G2...	Hypertensive disease
+G201.	Benign essential hypertension
+G33..	Angina
+G55..	Cardiomyopathy
+G5730	Atrial fibrillation
+G58..	Heart failure
+G6...	Cerebrovascular disease
+G83..	Varicose veins of leg
+G831.	Varicose veins of the leg with eczema
+G84..	Haemorrhoid
+G843.	External haemorrhoids, simple
+G84z.	Haemorrhoids NOS
+G870.	Orthostatic hypotension
+H0...	Acute respiratory infections
+H010.	Acute maxillary sinusitis
+H011.	Acute frontal sinusitis
+H024.	Acute viral pharyngitis
+H040.	Acute laryngitis
+H041.	Acute tracheitis
+H05z.	Upper respiratory tract infection (& viral) NOS
+H11..	Nasal polyp
+H13..	Chronic sinusitis
+H27..	Influenza
+H3...	Chronic obstructive lung disease
+H3122	Acute exacerbation of chronic obstructive airways disease
+H33..	Asthma
+H34..	Bronchiectasis
+H3z..	Chronic obstructive airways disease NOS
+H5z..	Respiratory system diseases NOS
+J046.	Temporomandibular joint disorder
+J0464	Temporomandibular joint pain dysfunction syndrome
+J101.	Oesophagitis
+J1020	Gastro-oesophageal reflux disease with ulceration
+J12..	Duodenal ulcer
+J150.	Acute gastritis
+J155.	Gastritis unspecified
+J157.	Duodenitis
+J510z	Diverticulosis NOS
+J530.	Anal fissure
+J5730	Rectal haemorrhage
+Jyu13	[X]Other gastritis
+K15..	Inflammation of bladder
+K15z.	Cystitis NOS
+K16y4	Detrusor instability
+K1903	Recurrent urinary tract infection
+K190z	Urinary tract infection, site not specified NOS
+K1972	Microscopic haematuria
+K23..	Hydrocele
+K241.	Epididymitis
+K242.	Epididymo-orchitis
+K28y6	Cyst of epididymis
+K3171	Breast lump
+K5100	Cystocele without uterine prolapse
+K514.	Uterovaginal prolapse, unspecified
+K532z	Ovarian cyst NOS
+K540.	Endometrial polyp
+K59..	Menstruation disorder
+K590.	Amenorrhoea
+K5920	Menorrhagia
+K5A1.	Postmenopausal bleeding
+K5A20	Menopausal flushing
+K5A2z	Menopausal symptoms NOS
+K5A3.	Postmenopausal atrophic vaginitis
+L04..	Miscarriage
+M01..	Furuncle
+M0212	Paronychia of toe
+M03z.	Cellulitis and abscess NOS
+M03z0	Cellulitis NOS
+M03z1	Abscess NOS
+M05..	Impetigo
+M071.	Pyogenic granuloma
+M100.	Seborrhoeic dermatitis of scalp
+M111.	Atopic dermatitis
+M12z0	Dermatitis NOS
+M153.	Rosacea
+M16..	Psoriasis and similar disorders
+M160.	Psoriatic arthritis
+M1610	Psoriasis unspecified
+M161z	Psoriasis NOS
+M163.	Pityriasis rosea
+M170.	Lichen planus
+M2102	Lichen sclerosus
+M21z1	Skin tag
+M221.	([(Hyper)keratosis or (wart)]: [senile] or [seborrhoeic] or [inverted follicular]) or [(pigmented) basal cell papilloma] or (melanoacanthoma)
+M226.	Solar keratosis
+M2300	Ingrowing great toenail
+M231.	Nail deformity
+M2521	Pompholyx unspecified
+M262.	(Cyst: [epidermoid] or [keratin(ising)(ous)] or [sebaceous]) or (wen)
+M28..	Urticaria
+Myu6F	[X]Acne, unspecified
+N000.	Systemic lupus erythematosus
+N040.	Rheumatoid arthritis
+N050.	Generalised osteoarthritis
+N05zJ	Osteoarthritis NOS, of hip
+N05zL	Osteoarthritis NOS, of knee
+N074.	Chondromalacia patellae
+N090M	Knee joint effusion
+N0944	Hand joint pain
+N0949	Multiple joint pain
+N094F	Wrist joint pain
+N094M	Knee joint pain
+N122.	Prolapsed lumbar intervertebral disc
+N127.	Lumbar disc degeneration
+N131.	Pain in neck (& [cervical spine])
+N1420	Lumbago with sciatica
+N1472	Pain in the coccyx
+N211.	Rotator cuff shoulder syndrome and allied disorders
+N2113	Supraspinatus tendinitis
+N2116	Subacromial bursitis
+N2122	Subacromial impingement
+N2131	Medial epicondylitis
+N2132	Lateral epicondylitis
+N2133	Olecranon bursitis
+N2157	Trochanteric bursitis
+N2165	Prepatellar bursitis
+N2172	Metatarsalgia NOS
+N2174	Achilles tendinitis
+N2179	Plantar fasciitis
+N21z0	Capsulitis NOS
+N221.	Bunion
+N2245	Ganglion of wrist
+N224A	Synovial cyst of popliteal space
+N2420	Neuralgia unspecified
+N330.	Osteoporosis
+N350.	Hallux valgus - acquired
+Nz...	Musculoskeletal and connective tissue diseases NOS
+R0040	[D]Dizziness
+R0042	[D]Light-headedness
+R0043	[D]Vertigo NOS
+R0044	[D]Acute vertigo
+R005.	[D]Sleep disturbances
+R0052	[D]Insomnia NOS
+R0075	[D]Tiredness
+R007z	[D]Malaise and fatigue NOS
+R00z2	[D]Pain, generalised
+R01z2	[D]Musculoskeletal pain
+R0206	[D]Numbness
+R0207	[D]Paraesthesia
+R021.	[D]Rash and other nonspecific skin eruption
+R021z	[D]Rash and other nonspecific skin eruption NOS
+R0222	[D]Lump, localised and superficial
+R040.	[D]Headache
+R0400	[D]Facial pain
+R047.	[D]Epistaxis
+R051.	[D]Palpitations
+R0560	[D]Lymphadenopathy
+R0608	[D]Shortness of breath
+R060B	[D]Snoring
+R062.	[D]Cough
+R063.	[D]Haemoptysis
+R065.	[D]Chest pain
+R0658	[D]Chest tightness
+R065A	[D]Musculoskeletal chest pain
+R065B	[D]Non-cardiac chest pain
+R081.	[D]Dysuria
+R081z	[D]Dysuria NOS
+R090.	[D]Abdominal pain
+R0901	[D]Abdominal colic
+R0905	[D]Epigastric pain
+R090B	[D]Groin pain
+R090C	[D]Loin pain
+R090G	[D]Pelvic and perineal pain
+S34z.	Fracture of ankle, NOS
+S50y.	Shoulder sprain NOS
+S54y.	Knee sprain NOS
+S550.	Sprain of ankle joint
+S570.	Neck sprain
+S57z.	Back sprain NOS
+SD810	Corneal abrasion
+SN530	Allergic reaction
+SP255	Postoperative wound infection, unspecified
+SP322	Thrombophlebitis after infusion
+TJ00.	Adverse reaction to penicillins
+Ua02Z	Advice about drug treatment
+Ua02b	Advice about side effects of drug treatment
+Ua02e	Advice about drug dosage
+Ua03K	Advice to read information
+Ua0HJ	Main spoken language
+Ua1Nz	Smoking cessation advice
+Ua1R2	Wound care
+Ua1R3	Pressure area care
+Ua1q5	Bereavement
+Ua2Bc	Pain score
+Ua2EL	Post-surgical wound care
+Ub0lK	Occasional drinker
+Ub0lL	Light drinker
+Ub0lM	Moderate drinker
+Ub0lR	Problem drinker
+Ub0o5	Gets no exercise
+Ub0oq	Non-smoker
+Ub0p3	Age at starting smoking
+Ub0sN	Provision of pressure relief equipment
+Ub1L9	Steam inhalations
+Ub1ju	Carer
+Ub1na	Ex-smoker
+Ub1tI	Cigarette consumption
+Ub1tJ	Cigar consumption
+X007s	Insomnia NOS
+X0083	Sleep apnoea
+X0084	Obstructive sleep apnoea
+X00OE	Injection into joint
+X00SM	Bipolar disorder
+X00SO	Depressive disorder
+X00SQ	Agitated depression
+X00Sb	Mixed anxiety and depressive disorder
+X00Su	Globus hystericus
+X00XH	Cataract extraction and insertion of intraocular lens
+X00Zh	Conjunctivitis
+X00hh	Nasal congestion
+X00hi	Sinus congestion
+X00ik	Otitis media
+X00l9	Hay fever - unspecified allergen
+X00mG	Pharyngitis
+X1002	Acute upper respiratory infection
+X1003	Viral upper respiratory tract infection NOS
+X1004	Infection of lower respiratory tract
+X20TZ	Oesophagogastroduodenoscopy
+X20Ta	Gastroscopy NEC
+X20Th	Sigmoidoscopy
+X3003	Gastro-oesophageal reflux disease
+X301N	Gastritis
+X304P	Diverticular disease
+X307v	Fatty change of liver
+X308A	Gallbladder calculus
+X30BN	Gastroenteritis
+X30Nk	Bladder muscle dysfunction - overactive
+X407i	Bacterial vaginosis
+X407z	Vaginal dryness
+X40FT	Mastitis
+X40IQ	Hypothyroidism
+X40J4	Type I diabetes mellitus
+X40J5	Type II diabetes mellitus
+X40J6	Insulin treated Type 2 diabetes mellitus
+X40Jh	Impaired glucose tolerance
+X40Wy	Hyperlipidaemia
+X40Y4	Iron deficiency
+X40YQ	Morbid obesity
+X5001	Pruritus vulvae
+X500U	Abscess of skin
+X501E	Cellulitis of leg
+X505K	Eczema
+X505L	Hand eczema
+X50A4	Acne
+X50AK	Perioral dermatitis
+X700S	Anterior knee pain
+X703K	Osteoarthritis of hip
+X703L	Osteoarthritis of knee
+X703j	Cervical spondylosis
+X703k	Lumbar spondylosis
+X706H	Impingement syndrome of shoulder region
+X70Iu	Viral disease
+X70LP	Hand wart
+X70LV	Plane wart
+X70QJ	Fungal dermatosis
+X70QP	Tinea cruris
+X70QU	Onychomycosis
+X70cl	Change of dressing
+X70dI	Removal of sutures
+X71Ez	Advice
+X71a7	Continuous positive airways pressure
+X71b2	Immunisation
+X74UV	Blood sampling
+X74UW	Venous blood sampling
+X74V6	Antenatal care
+X75l7	Posterior vitreous detachment
+X75qw	Nausea
+X75rG	Pain in sinuses
+X75rs	Muscle pain
+X75rv	Hip pain
+X75rx	Fibromyalgia
+X75rz	Acute back pain with sciatica
+X75s9	Shoulder pain
+X75sA	Pain in lower limb
+X75sB	Heel pain
+X75sC	Hand pain
+X75sD	Foot pain
+X75sE	Pain in upper limb
+X75sF	Ankle pain
+X75sy	Neuropathic pain
+X75tU	Pain in female genitalia on intercourse
+X76CX	Waist/hip ratio
+X76Gz	Dyspnoea on exertion
+X76Hy	Productive cough
+X771P	Blood urea
+X771S	Potassium level
+X771T	Sodium level
+X771f	ALT - blood level
+X771i	AST serum level
+X772O	Triglyceride level
+X772q	Haemoglobin A1c level
+X772z	Blood glucose level
+X77Gp	Nasal airway obstruction
+X77Qd	Expired carbon monoxide concentration
+X77Qu	Forced expired volume in 1 second
+X77RS	Best ever peak expiratory flow rate
+X77RW	Serial peak expiratory flow rate
+X77RZ	Forced expired volume in one second/vital capacity ratio
+X77Ra	Forced expired volume in one second/forced vital capacity ratio
+X78Oa	Colonic polyp
+X78Rn	Infected sebaceous cyst
+X78Uv	Benign melanocytic naevus of skin
+X78od	Skin tag NOS
+XA00w	Infected insect bite
+XA0Bg	Muscle sprain NOS
+XC0eJ	Neuropathy
+XE04o	Diagnostic laparoscopy of female pelvis
+XE06W	Cervical polypectomy
+XE06a	Total abdominal hysterectomy and bilateral salpingo-oophorectomy
+XE06b	Vaginal hysterectomy
+XE06n	Diagnostic endoscopic examination of uterus NOS
+XE078	Papanicolau smear NEC
+XE08j	Total prosthetic replacement of hip joint using cement
+XE08w	Total prosthetic replacement of knee joint using cement
+XE090	Other total prosthetic replacement of knee joint
+XE09X	Diagnostic endoscopic examination of other joint NOS
+XE09g	Operations, procedures, site
+XE0Cq	Diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract NOS
+XE0D8	Other excision of appendix NOS
+XE0DY	Diagnostic endoscopic examination of sigmoid colon using rigid sigmoidoscope NOS
+XE0Gu	Bilateral vasectomy for contraception
+XE0HW	Removal of skin or subcutaneous tissue
+XE0HY	Excision of lesion of skin NEC
+XE0Ha	Excision of sebaceous cyst NEC
+XE0Hm	Cryotherapy to lesion of skin NEC
+XE0ID	Removal of skin closure material from skin
+XE0IN	Dressing of skin or wound
+XE0JY	Injection of therapeutic substance
+XE0Jd	Subcutaneous injection
+XE0O9	Education/welfare/health professions
+XE0Ql	Campylobacter gastrointestinal tract infection
+XE0Qq	Diarrhoea of presumed infectious origin
+XE0R9	Varicella infection
+XE0RB	Herpes simplex infection
+XE0RS	Human papilloma virus infection of skin
+XE0RZ	Viral infection NOS
+XE0S9	Dermatophytosis
+XE0SB	Dermatophytosis of nail
+XE0SD	Dermatophytosis of the body
+XE0SK	Candida intertrigo
+XE0Se	Scabies
+XE0Ub	Hypertension
+XE0Uc	Essential hypertension
+XE0Ud	Essential hypertension NOS
+XE0Uh	Acute myocardial infarction
+XE0Um	Pulmonary embolus
+XE0VK	Transient ischaemic attack
+XE0VQ	Raynaud's phenomenon
+XE0VY	Deep vein phlebitis and thrombophlebitis of the leg
+XE0Xl	Common cold
+XE0Xm	Acute sinusitis
+XE0Xn	Acute pharyngitis
+XE0Xq	Upper respiratory infection NOS
+XE0Xr	Acute bronchitis
+XE0Xs	Chest infection NOS
+XE0Xt	Acute lower respiratory tract infection
+XE0Xx	Chronic rhinitis
+XE0Y5	Allergic rhinitis
+XE0Y7	Allergic rhinitis due to unspecified allergen
+XE0YA	Nasal cavity and sinus disease NOS
+XE0YK	Influenza NOS
+XE0YL	Bronchitis unspecified
+XE0aL	Gastro-oesophageal reflux disease with oesophagitis
+XE0aO	Gastro-oesophageal reflux disease without oesophagitis
+XE0aX	Unilateral simple inguinal hernia
+XE0ab	Diaphragmatic hernia
+XE0ag	Ulcerative colitis
+XE0as	Irritable bowel syndrome
+XE0ax	Perianal abscess
+XE0b0	Haemorrhage of rectum and anus
+XE0bD	Calculus in biliary tract
+XE0bK	Coeliac disease
+XE0dk	Calculus of kidney
+XE0e0	Infection of urinary tract
+XE0e5	Haematuria
+XE0e6	Benign prostatic hyperplasia
+XE0eC	Balanitis
+XE0eK	Solitary cyst of breast
+XE0eW	Endometriosis
+XE0ek	Dysmenorrhoea
+XE0el	Premenstrual tension syndrome
+XE0em	Secondary amenorrhoea
+XE0er	Metrorrhagia
+XE0et	Dysfunctional uterine haemorrhage NOS
+XE0hr	Salicylate prophylaxis
+XE0hs	Hormone replacement therapy
+XE0i1	Patient advised about weight-reducing diet
+XE0iP	Other referral
+XE0iT	Trauma self-referral
+XE0iW	Referral for endoscopy
+XE0o3	No FH: Ischaemic heart disease
+XE0o4	Family history of neoplasm
+XE0o8	FH: Raised blood lipids
+XE0oF	FH: Cardiovascular disease
+XE0oG	FH: Ischaemic heart disease at less than 60 years
+XE0oH	FH: Ischaemic heart disease at greater than 60 years
+XE0oI	FH: Myocardial infarction
+XE0oa	Married
+XE0of	Trivial drinker - <1u/day
+XE0og	Tobacco smoking consumption
+XE0oh	Never smoked tobacco
+XE0oq	Cigarette smoker
+XE0pM	Stress at home
+XE0pW	Problems at work
+XE0pr	Foreign travel NOS
+XE0qO	Gynaecological history
+XE0qS	H/O: full term delivery
+XE0qT	H/O: abnormal uterine bleeding
+XE0qZ	General symptoms
+XE0qb	Abnormal weight loss
+XE0qj	Tiredness symptom
+XE0qk	Tired all the time
+XE0qn	Cough
+XE0qo	Productive cough NOS
+XE0qq	Dyspnoea
+XE0qs	Wheezing
+XE0qv	Palpitations
+XE0qx	Swollen ankle
+XE0rA	Vomiting
+XE0rC	Flatulence/wind
+XE0rD	Constipation
+XE0rN	Diarrhoea symptoms
+XE0rP	Genitourinary symptoms
+XE0rR	Genuine stress incontinence
+XE0rU	Blood in urine - haematuria
+XE0rV	Renal colic
+XE0re	Depressed mood
+XE0rh	Headache
+XE0rt	Incoordination symptom
+XE0s3	Has a red eye
+XE0s8	Ear/nose/throat symptoms
+XE0s9	Hearing loss
+XE0sE	Sore throat symptom
+XE0sH	C/O: itching
+XE0sP	Patient feels well
+XE104	Thyrotoxicosis
+XE108	Acquired hypothyroidism
+XE10A	Hypothyroidism NOS
+XE112	Vitamin D deficiency
+XE11S	Pure hypercholesterolaemia
+XE11U	Mixed hyperlipidaemia
+XE13c	Iron deficiency anaemia
+XE140	Anaemia unspecified
+XE15g	Carpal tunnel syndrome
+XE16K	Blurred vision NOS
+XE16X	Acute conjunctivitis
+XE16g	Blepharitis
+XE16o	Dry eye syndrome
+XE17B	Otitis externa NOS
+XE17D	Otitis media NOS
+XE17L	Tinnitus
+XE17N	Sensorineural hearing loss
+XE1AP	Boil NOS
+XE1AR	Paronychia of finger
+XE1Aj	Local infection skin/subcut tissue NOS
+XE1Al	Skin and subcut tissue infection NOS
+XE1An	Seborrhoeic dermatitis
+XE1Av	Eczema NOS
+XE1B7	Pruritus ani
+XE1BA	Pruritus NOS
+XE1BD	Other dermatoses NOS
+XE1BO	Acne vulgaris
+XE1BQ	Non-pressure ulcer lower limb
+XE1BR	Allergic urticaria
+XE1Ba	Skin and subcutaneous tissue disease NOS
+XE1C6	Atopic eczema/dermatitis NOS
+XE1Cq	Folliculitis
+XE1DV	Osteoarthritis
+XE1Da	Osteoarthritis NOS
+XE1Dd	Osteoarthritis NOS, of the hand
+XE1De	Osteoarthritis NOS, pelvic region/thigh
+XE1Df	Osteoarthritis NOS, of the lower leg
+XE1Dk	Arthropathy NOS
+XE1EY	Joint pain
+XE1EZ	Shoulder joint pain
+XE1Eb	Arthralgia of the forearm
+XE1Ed	Arthralgia of the lower leg
+XE1Eu	Cervical spondylosis without myelopathy
+XE1Ex	Lumbosacral spondylosis without myelopathy
+XE1F4	Neck pain
+XE1F5	Brachial (cervical) neuritis
+XE1FA	Pain in thoracic spine
+XE1FB	Pain in lumbar spine
+XE1FC	Sciatica
+XE1FE	Backache, unspecified
+XE1FI	Back disorders NOS
+XE1FJ	Polymyalgia rheumatica
+XE1FL	Frozen shoulder
+XE1FN	Rotator cuff syndrome NOS
+XE1FS	Tendinitis NOS
+XE1FU	Trigger finger - acquired
+XE1FV	De Quervain's tenosynovitis
+XE1Fm	Myalgia unspecified
+XE1Fp	Pain in limb
+XE1Fr	Leg cramp
+XE1P0	Vital capacity
+XE1S5	Sheath contraception
+XE1S7	Depot contraception
+XE1S8	Depot contraceptive given
+XE1Su	Cardiac disease monitoring
+XE1Sw	Respiratory disease monitoring
+XE1T6	Obesity monitoring
+XE1T7	Target weight discussed
+XE1TA	Warfarin monitoring
+XE1TE	Menopause monitoring
+XE1TL	Health education - subject
+XE1TY	Breast neoplasm screening
+XE1Y7	Panic disorder
+XE1YC	Reactive depression
+XE1YD	Neurasthenia
+XE1YQ	Chronic alcoholism
+XE1Yl	Tension-type headache
+XE1Ym	Acute stress reaction
+XE1Zb	[X]Depressive episode, unspecified
+XE1Zc	[X]Recurrent depressive disorder
+XE1gy	Patient's condition improved
+XE1gz	O/E - rash present
+XE1hE	Resp. system examined - NAD
+XE1hH	O/E - rhonchi present
+XE1hO	O/E - peripheral pulses R.-leg
+XE1hP	O/E - peripheral pulses L.leg
+XE1lz	Muscle strain
+XE1ot	Allergy, unspecified
+XE1vh	Other malignant neoplasm of skin
+XE24Z	[V]Family history of ischaemic heart disease
+XE24t	Hb. A1C - diabetic control
+XE25E	Thyroid hormone tests
+XE25Q	Aspartate transaminase level
+XE2I4	Lloyd George-culled and tagged
+XE2NI	Seen in dermatology clinic
+XE2Nb	Asthma monitoring check done
+XE2Pv	Insomnia
+XE2QC	Impacted wax
+XE2QI	Allergic rhinitis due to pollens
+XE2Qa	Alopecia
+XE2Qc	Unspecified polyarthropathy or polyarthritis
+XE2a7	Ocular hypertension
+XE2aB	Stroke and cerebrovascular accident unspecified
+XE2aC	Acute tonsillitis
+XE2az	Chest X-ray
+XE2b6	Personality disorder
+XE2dy	Plasma C-reactive protein level
+XE2eD	Serum cholesterol level
+XE2m6	Haemoglobin estimation level
+XE2m7	Erythrocyte sedimentation rate
+XE2mp	Random blood glucose level
+XE2mq	Fasting blood glucose level
+XE2pd	Plasma viscosity
+XE2px	Serum alkaline phosphatase level
+XE2pz	Serum potassium level
+XE2q0	Serum sodium level
+XE2q3	Serum calcium level
+XE2q5	Serum creatinine level
+XE2q9	Serum triglyceride levels
+XE2qu	Total bilirubin level
+XE2rH	O/E patient well
+XE2rN	Best ever peak flow rate
+XE2ro	Pernicious anaemia
+XE2s5	Examination / Signs
+XE2sd	Benign tumour of skin
+XE2sf	Diverticular disorder of intestine
+XE2tY	FH: stroke ([and/or] CVA)
+XE2tg	Menstrual data
+XE2uM	Dermatophytosis of foot
+XE2uV	Ischaemic heart disease
+XE2vh	FH: * - breast
+XE2vk	Otalgia
+XE2wr	Peak expiratory flow rate
+XE2ws	Peak flow rate after bronchodilation
+XE2wt	Expected peak flow rate
+XE2wy	Thyroid stimulating hormone level
+XE2x9	Herpes zoster infection
+XE2xQ	Peak flow rate before bronchodilation
+XE2y7	Infectious mononucleosis
+XM01b	Wound infection
+XM02r	Herpes labialis
+XM06h	Vertigo NOS
+XM091	Groin pain
+XM0By	Colonoscopy
+XM0CK	O/E - chest findings
+XM0CP	O/E - throat
+XM0CR	C/O - feeling depressed
+XM0lt	Serum urea level
+XM0ly	Plasma glucose level
+XM0oy	Excision of lipoma
+XM0r1	Otitis externa
+XM0rz	Influenza-like illness
+XM0tr	Cellulitis of foot
+XM0ug	Dupuytren's contracture
+XM18T	Patient given exercise advice
+XM1GI	Back pain
+XM1Jg	Family history of cerebrovascular accident
+XM1NJ	Finger pain
+XM1QE	Ear infection
+XM1QH	Sinusitis
+XM1QW	Respiratory tract infection
+XM1QX	Acute wheezy bronchitis
+XM1TH	Injection given
+XM1Ue	O/E - chest examination normal
+XM1Wr	Family history of breast cancer
+XM1Xb	Asthma monitoring
+XM1Xl	Weight loss advised
+XM1Y3	Family history of cancer
+XM1YA	Hypertension monitoring
+XM1YL	O/E - allergic rash
+XM1YT	O/E - vaginal examination
+XSFyN	Glomerular filtration rate
+XSJF8	Chest wall pain
+Xa01F	Chronic fatigue syndrome
+Xa02q	Skin lesion
+Xa041	Waist circumference
+Xa05Y	Respiratory observation
+Xa07F	Pain
+Xa0Ns	Bronchospasm
+Xa0lX	Seasonal allergic rhinitis
+Xa0sK	Chronic low back pain
+Xa0sM	Acute low back pain
+Xa0t5	Morton neuroma
+Xa0wt	Low back pain
+Xa0wu	Mechanical low back pain
+Xa0wx	Knee pain
+Xa0yJ	Musculoskeletal pain
+Xa13A	Intertrigo
+Xa1bv	Ex-cigarette smoker
+Xa1dA	Advice on alcohol consumption
+Xa1dC	Advice on smoking
+Xa1de	Referral for investigation
+Xa1hD	Exacerbation of asthma
+Xa1pQ	Allergic disorder
+Xa1po	Travel vaccinations
+Xa1qK	Admission to hospital
+Xa1sV	Antibiotic therapy
+Xa1sb	Viral upper respiratory tract infection
+Xa1xw	Soft tissue injury
+Xa2E8	Paroxysmal atrial fibrillation
+Xa2h7	Dietary advice for diabetes mellitus
+Xa2kc	Persistent cough
+Xa2o8	Infection of the upper respiratory tract
+Xa35V	Pain in elbow
+Xa35W	Pain in toe
+Xa36H	Termination of pregnancy
+Xa3HE	Injection into body site
+Xa3eV	Skin - benign mole and naevus
+Xa3rJ	Female sterilisation operation NOS
+Xa4hl	Injection into shoulder joint
+Xa4in	Pain of breast
+Xa6Ze	Ganglion of hand
+Xa6Zf	Ganglion of foot
+Xa6aA	Rib pain
+Xa6aj	Family history of ischaemic heart disease
+Xa6bZ	Steroid therapy
+Xa7I0	Tonsillitis
+Xa7I4	Dental abscess
+Xa7Ni	Infection toe
+Xa7OS	Injection of knee joint
+Xa7OW	Cryotherapy to wart
+Xa7Wt	Observation of frequency of urination
+Xa7eq	Excision of sebaceous cyst
+Xa7m8	Pain in calf
+Xa7m9	Pain in thumb
+Xa7mA	Low back strain
+Xa7uq	Chest auscultation observations
+Xa83j	Chest clear
+Xa8EJ	Acute cystitis
+Xa8Hm	Ear pain
+Xa8Pl	Cervical smear
+Xa8Pq	Forceps delivery
+Xa8Q7	Cauterisation of skin lesion
+Xa8QS	Removal of suture from skin
+Xa96v	Haemoglobin concentration
+Xa97k	Tinea pedis
+Xa97l	Ringworm of body
+Xa9As	Hypercholesterolaemia
+Xa9Bo	Benign paroxysmal positional vertigo
+Xa9Bs	Deep vein thrombosis of lower limb
+Xa9Bz	Barrett's oesophagus
+Xa9CV	Contact dermatitis
+Xa9EJ	Physiotherapy
+Xa9Tk	Sigmoidoscopy NEC
+Xa9U0	Appendicectomy NEC
+Xa9eT	Vasectomy NEC
+Xa9ee	Removal of mole of skin by excision
+Xa9gX	Dilation of cervix uteri and curettage of uterus NEC
+Xa9gY	Total abdominal hysterectomy NEC
+Xa9gi	Hysteroscopy NEC
+Xa9k4	Arthroscopy NEC
+Xa9wq	O/E - itchy rash
+Xa9ws	Pill check
+Xa9wt	Depo-provera injection given
+Xa9zF	Advice about exercise
+Xa9zW	Sore throat
+Xa9zf	Acute asthma
+Xa9zk	Advice about side effects of treatment
+Xa9zm	Advice about failure risk of treatment
+XaADJ	Advice about weight
+XaAZQ	Referral by GP
+XaAdU	Referral to podiatry service
+XaAde	Referral to physiotherapy service
+XaAeI	Referral to urology service
+XaAeO	Referral to service
+XaAfm	Referral to respiratory physician
+XaAg8	Referral to rheumatologist
+XaAga	Referral to colorectal surgeon
+XaAsY	Advice about investigation results
+XaAwE	Advice relating to treatment and prevention
+XaB9J	Depression NOS
+XaBDK	Hysteroscopy and endometrial biopsy
+XaBFL	Weight monitoring
+XaBFi	Referral by person
+XaBFj	Referral by service
+XaBJK	Costochondritis
+XaBKK	Injection of steroid into shoulder joint
+XaBLE	O/E - Vibration sense of right foot abnormal
+XaBLF	O/E - Vibration sense of right foot normal
+XaBLG	O/E - Vibration sense of left foot abnormal
+XaBLH	O/E - Vibration sense of left foot normal
+XaBLM	O/E - Right retina normal
+XaBLN	O/E - Left retina normal
+XaBLm	Haemoglobin A1 level
+XaBLn	Self-monitoring of blood glucose
+XaBLo	Self-monitoring of urine glucose
+XaBSm	Referral to practice nurse
+XaBSn	Referral to district nurse
+XaBSw	Introduction of Mirena coil
+XaBSz	Referral to dietitian
+XaBT0	Referral to physiotherapist
+XaBT1	Referral to counsellor
+XaBT5	Referral to podiatrist
+XaBTF	Referral to radiology service
+XaBTS	Referral to dermatologist
+XaBTW	Referral to gastroenterologist
+XaBTb	Referral to orthopaedic surgeon
+XaBTf	Referral to gynaecologist
+XaBYP	Hot flushes
+XaBZO	Intramuscular injection of vitamin B12
+XaBr9	Arthroscopy of knee joint
+XaBul	Retinal abnormality - diabetes-related
+XaC43	Church of England
+XaCFL	Referral for 24 hour ECG
+XaCFR	Expected FEV1/FVC ratio
+XaCHY	Referral to hospital
+XaCIS	C/O paraesthesia
+XaCIs	Mild depression
+XaCIt	Moderate depression
+XaCJK	Expected FEV1
+XaCJL	Expected FVC
+XaCv2	Patient education
+XaDtP	Bronchitis
+XaDvG	O/E - not dehydrated
+XaDz8	Provision of telephone
+XaE4R	Patient advised about driving
+XaE5D	Osteopenia
+XaEES	Spacer device in use
+XaEFD	Patient given telephone advice out of hours
+XaEFF	Referral to breast clinic
+XaEFL	Expected peak expiratory flow rate
+XaEFM	Peak flow rate
+XaEFY	Lifestyle counselling
+XaEFm	Advice about fluid intake
+XaEFp	Advice about foot care
+XaEFy	FEV1/FVC percent
+XaEFz	Percent predicted FEV1
+XaEGA	Peak expiratory flow rate after bronchodilation
+XaEGL	Hand warts
+XaEHe	Peak expiratory flow rate before bronchodilation
+XaEIV	Mild chronic obstructive pulmonary disease
+XaEIW	Moderate chronic obstructive pulmonary disease
+XaEKU	Nicotine replacement therapy
+XaELV	Serum TSH level
+XaENB	120 minute blood glucose level
+XaEOV	120 minute plasma glucose level
+XaERp	HbA1c level (DCCT aligned)
+XaERu	Serum total bilirubin level
+XaEc9	First hepatitis A and typhoid vaccination
+XaEnr	Uterine cervix visualised
+XaEns	360 degree sweep of cervix performed
+XaF4K	Average night interval systolic blood pressure
+XaF4L	Average day interval systolic blood pressure
+XaF4O	Average 24 hour systolic blood pressure
+XaF4Z	Average night interval diastolic blood pressure
+XaF4a	Average day interval diastolic blood pressure
+XaF4b	Average 24 hour diastolic blood pressure
+XaF7N	Over the counter aspirin therapy
+XaF7O	Lloyd George record received
+XaF8d	Medication review done
+XaFqt	Suspected UTI
+XaFs5	Referral to rapid access chest pain clinic
+XaFs9	Fasting cholesterol level
+XaFsq	Beta blocker prophylaxis
+XaFsr	Statin prophylaxis
+XaFss	ACE inhibitor prophylaxis
+XaFvp	Patient advised about alcohol
+XaFvr	Beta blocker not indicated
+XaFw9	Referral to stop-smoking clinic
+XaFwD	White British
+XaFwW	Unilateral mastalgia
+XaG5t	Main spoken language English
+XaI9c	Pack years
+XaIAQ	O/E - tympanic temperature
+XaIIM	Standard care programme approach level
+XaIIW	Asthma accident and emergency attendance since last visit
+XaIIX	Asthma treatment compliance satisfactory
+XaIIZ	Asthma daytime symptoms
+XaIIf	Angiotensin converting enzyme inhibitor not indicated
+XaIIg	Statin not indicated
+XaIIh	Warfarin not indicated
+XaIIi	Aspirin not indicated
+XaIIj	Diabetic retinopathy screening
+XaIIl	Statin declined
+XaIIs	Urgent referral
+XaIL1	Recorded/predicted peak expiratory flow rate ratio
+XaINJ	Blood pressure monitoring
+XaINL	Serum C reactive protein level
+XaINa	Asthma never causes daytime symptoms
+XaINb	Asthma causes daytime symptoms 1 to 2 times per month
+XaINc	Asthma causes daytime symptoms 1 to 2 times per week
+XaINd	Asthma causes daytime symptoms most days
+XaINi	Number of times bronchodilator used in one week
+XaIOG	Endocervical chlamydia swab
+XaION	Referral for echocardiography
+XaIP9	Sebaceous cyst
+XaIPU	Referral to retinal screener
+XaIPc	O/E - no retinopathy
+XaIPg	O/E - no right diabetic retinopathy
+XaIPj	O/E - no left diabetic retinopathy
+XaIQ0	Inhaler technique - moderate
+XaIQQ	O/E - left foot pulses present
+XaIQR	O/E - right foot pulses present
+XaIQT	Chronic obstructive pulmonary disease monitoring
+XaIQi	Smoking cessation milestones
+XaIQz	Brain natriuretic peptide level
+XaIRE	10g monofilament sensation present
+XaIUi	MRC Breathlessness Scale: grade 1
+XaIUl	MRC Breathlessness Scale: grade 2
+XaIUm	MRC Breathlessness Scale: grade 3
+XaIUn	MRC Breathlessness Scale: grade 4
+XaIUt	Chronic obstructive pulmonary disease self-management plan given
+XaIVl	Medication review without patient
+XaIWn	White coat hypertension
+XaIdY	Total white blood count
+XaIeD	10g monofilament sensation R foot abnormal
+XaIeE	10g monofilament sensation L foot abnormal
+XaIeF	10g monofilament sensation R foot normal
+XaIeG	10g monofilament sensation L foot normal
+XaIeH	O/E - Right diabetic foot at low risk
+XaIeL	O/E - Left diabetic foot at low risk
+XaIeR	O/E - Left diabetic foot at moderate risk
+XaIeS	O/E - Right diabetic foot at moderate risk
+XaIeq	Asthma annual review
+XaIer	Asthma follow-up
+XaIet	Chronic obstructive pulmonary disease annual review
+XaIfK	Asthma medication review
+XaIfN	Seborrhoeic keratosis
+XaIkW	Thinking about stopping smoking
+XaIkX	Ready to stop smoking
+XaIkY	Not interested in stopping smoking
+XaImK	Oral health advice given
+XaIoE	Asthma night-time symptoms
+XaIoW	Medication review done by pharmacist
+XaIqY	O/E - vibration sense left foot reduced
+XaIqZ	O/E - vibration sense right foot reduced
+XaIqy	Medication monitoring
+XaIrX	O/E - Injection sites normal
+XaIsO	Single dose typhoid vaccination
+XaItC	Referral to smoking cessation advisor
+XaItl	Percentage of best ever peak expiratory flow rate
+XaIu5	Asthma monitoring by nurse
+XaIu6	Asthma monitoring by doctor
+XaIuE	Diabetic foot examination
+XaIwQ	Phakoemulsification of lens and insertion of prosthetic replacement
+XaIwY	Acute non-ST segment elevation myocardial infarction
+XaIwj	Standing systolic blood pressure
+XaIwk	Standing diastolic blood pressure
+XaIww	Asthma trigger
+XaIxD	Peak expiratory flow rate monitoring
+XaIxQ	FEV1 before bronchodilation
+XaIxR	FEV1 after bronchodilation
+XaIyD	Hypertension six month review
+XaIyE	Hypertension annual review
+XaIyV	Epilepsy medication review
+XaIyc	Cancer care review
+XaIyt	Diabetic peripheral neuropathy screening
+XaIyy	Pneumococcal vaccination declined
+XaJ2E	Sitting systolic blood pressure
+XaJ2F	Sitting diastolic blood pressure
+XaJ3K	FVC after bronchodilation
+XaJ5i	Patient on maximal tolerated lipid lowering therapy
+XaJ5j	Patient on maximal tolerated therapy for diabetes
+XaJ5l	Clopidogrel not indicated
+XaJ5m	Angiotensin II receptor antagonist not indicated
+XaJ5w	FVC/Expected FVC percent
+XaJ7D	Health education - diabetes
+XaJ9E	FEV1/FVC ratio after bronchodilator
+XaJCN	Medication review of medical notes
+XaJCO	Medication review with patient
+XaJHq	Medication review done by doctor
+XaJHr	Has shown no side effects from medication
+XaJIr	Lifestyle advice regarding alcohol
+XaJIs	Lifestyle advice regarding smoking
+XaJIt	Lifestyle advice regarding exercise
+XaJKU	Monitoring of all medication checked
+XaJKW	Patient understands why taking all medication
+XaJKb	Able to use medication
+XaJOQ	Advised to attend for retinal screening
+XaJOg	O/E - right eye background diabetic retinopathy
+XaJOh	O/E - left eye background diabetic retinopathy
+XaJPJ	HbA1c target
+XaJQv	British or mixed British - ethnic category 2001 census
+XaJQx	Other White background - ethnic category 2001 census
+XaJR2	Indian or British Indian - ethnic category 2001 census
+XaJVi	Blood pressure recorded by patient at home
+XaJe9	Serum total cholesterol level
+XaJf4	Medication review done by nurse
+XaJgg	Clinical management plan agreed
+XaJlK	Removal of Mirena coil
+XaJlT	Chronic obstructive pulmonary disease monitoring 1st letter
+XaJnw	Seen in minor injuries department
+XaJr3	Mental health medication review
+XaJux	Advised risk of deep vein thrombosis in air travel
+XaJuz	Reversibility trial by bronchodilator
+XaJvF	O/E - Right dorsalis pedis normal
+XaJvH	O/E - left dorsalis pedis normal
+XaJvW	Number of consecutive days at less than 80% peak expiratory flow rate
+XaK02	Referral for spirometry
+XaK1z	Warfarin dose unchanged
+XaK2A	Spirometry not indicated
+XaK6I	Peak expiratory flow rate measured using EN 13826 device
+XaK6e	Depression medication review
+XaK6f	Depression interim review
+XaK8U	Number of chronic obstructive pulmonary disease exacerbations in past year
+XaK8y	Glomerular filtration rate calculated by abbreviated Modification of Diet in Renal Disease Study Group calculation
+XaKA7	Anticoagulation not indicated
+XaKCJ	O/E - right eye no maculopathy
+XaKCK	O/E - left eye no maculopathy
+XaKFw	Average home diastolic blood pressure
+XaKFx	Average home systolic blood pressure
+XaKGy	Referral to diabetes structured education programme
+XaKHd	Health education - weight management
+XaKIK	Computer summary updated
+XaKNv	Seen in out of hours centre
+XaKS7	International normalised ratio monitoring in general practice
+XaKSd	Cardiovascular disease annual review
+XaKSn	Diabetes care plan agreed
+XaKTi	Liquid based cervical cytology screening
+XaKYH	Deferred antibiotic therapy
+XaKbt	Predicted peak expiratory flow rate using EN 13826 standard
+XaKdS	Continence assessment
+XaKl6	Consent given for minor surgery procedure
+XaKuo	Medicine use review done by community pharmacist
+XaKwQ	Diabetic 6 month review
+XaL06	Prescription sent to pharmacy
+XaLFx	Dipyridamole not indicated
+XaLHI	Chronic kidney disease stage 3
+XaLIc	Depression screening using questions
+XaLIm	Asthma trigger - respiratory infection
+XaLJx	Serum alanine aminotransferase level
+XaLQh	Wants to stop smoking
+XaLSO	Prescription sent to patient
+XaMDD	Seen in maxillofacial unit
+XaMdq	Insulin dose changed
+XaMeA	Fast track referral for suspected skin cancer
+XaMeB	Fast track referral for suspected gynaecological cancer
+XaMeC	Fast track referral for suspected breast cancer
+XaMeF	Fast track referral for suspected urological cancer
+XaMeJ	Fast track referral for suspected upper gastrointestinal cancer
+XaMhk	Dispensing review of use of medicines
+XaMkD	Fast track referral for suspected head and neck cancer
+XaMlI	Smoking cessation drug therapy
+XaMza	Bowel cancer screening programme
+XaN0k	Seen in walk in centre
+XaN3c	Cardiovascular disease health education
+XaN4r	Bowel cancer screening declined
+XaN5q	Seen in sleep clinic
+XaNTS	Referral to diabetes education and self management for ongoing and newly diagnosed diabetes structured programme
+XaNfe	Uterine cervix transformation zone visualised
+XaNkY	Uterine cervix transformation zone not visualised
+XaNwS	Seen in urgent care centre
+XaONr	Seen in respiratory clinic
+XaOb7	Referral to sleep clinic
+XaObk	Asthma trigger - pollen
+XaOnd	Cardiovascular disease risk assessment
+XaOwL	Choose and book referral
+XaP9K	Family history of cardiovascular disease in first degree male relative less than 55 years
+XaP9M	Family history of cardiovascular disease in first degree female relative less than 65 years
+XaPBC	Seen in eye accident and emergency department
+XaPE3	Seen in general practitioner anticoagulation clinic
+XaPJl	International normalised ratio derived warfarin dose
+XaPP0	30 minutes a day of at least moderate intensity physical activity on five or more days of the week
+XaPP8	General practice physical activity questionnaire physical activity index: inactive
+XaPPB	General practice physical activity questionnaire physical activity index: moderately inactive
+XaPPD	General practice physical activity questionnaire physical activity index: moderately active
+XaPPE	General practice physical activity questionnaire physical activity index: active
+XaPbt	Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised
+XaPnn	Advice about long acting reversible contraception
+XaPx8	Patient advised of anticoagulant dose
+XaQ1U	Seen in community clinic
+XaQEa	White British - ethnic category 2001 census
+XaQaU	Lifestyle advice regarding diet
+XaQaV	Lifestyle advice regarding hypertension
+XaQk0	Antibiotic treatment indicated
+XaQmT	Percentage of predicted forced vital capacity
+XaRBP	NHS Health Check indicated
+XaRBQ	NHS Health Check completed
+XaRCS	Advice given about anti-malaria prophylaxis
+XaRF0	Medicines reconciliation performed
+XaVx3	Percentage predicted forced expiratory volume in 1 second after bronchodilation
+XaW0T	Concordance and compliance level 2 medication review
+XaWST	Post hospital discharge medication reconciliation with medical notes
+XaX3o	Diabetic dietary review
+XaX3q	Type II diabetic dietary review
+XaX4P	Aortic aneurysm screening normal
+XaXGs	Application of ambulatory blood pressure monitor
+XaXeg	Post bronchodilator spirometry
+XaXgw	C/O erectile dysfunction
+XaXgx	Does not complain of erectile dysfunction
+XaXhE	Diabetic assessment of erectile dysfunction
+XaXiC	Physical health assessment
+XaY2V	Asthma never causes night symptoms
+XaYZb	Abdominal aortic aneurysm screening
+XaYbB	Diabetes self-management plan agreed
+XaZ0d	Seasonal influenza vaccination
+XaZ45	Warfarin anticoagulation prophylaxis
+XaZAc	Foreign travel risk assessment
+XaZGh	Referral to Single Point of Access service
+XaZWm	Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+XaZdB	Rheumatoid arthritis annual review
+XaZq8	Pre-diabetes
+XaZsM	Herpes zoster vaccination
+XaaBD	Assessment for dementia
+XaaTP	Antibiotic prophylaxis not indicated
+XaabN	Bowel Cancer Screening Programme bowel scope screening test
+Xaalp	Fast track referral for suspected lower gastrointestinal cancer
+Xaam2	Referral to healthy lifestyle programme
+XabdY	Mild frailty
+Xabpk	Serum adjusted calcium concentration
+Xabv4	Offer of statin therapy
+ZV171	[V]Family history of stroke (cerebrovascular)
+a137.	Sodium bicarbonate 500mg capsule
+a213.	Hydrotalcite 500mg tablet
+a218.	Co-magaldrox 220mg/195mg/5mL oral suspension
+a23A.	Gaviscon Advance peppermint s/f suspension
+a23I.	Gaviscon Advance tablet
+a23e.	Gaviscon liquid 500mL
+a23v.	Gaviscon Advance s/f suspension
+a242.	Maalox suspension
+a243.	Maalox suspension 10mL
+a24t.	Peptac liquid
+a24z.	Peptac peppermint liquid
+a45x.	Dicycloverine hydrochloride 20mg tablet
+a45y.	Dicycloverine hydrochloride 10mg tablet
+a471.	Buscopan 10mg tablet
+a47y.	Hyoscine butylbromide 10mg tablet
+a4c1.	Propantheline bromide 15mg tablet
+a4d2.	Spasmonal 60mg capsule
+a4d4.	Alverine citrate 120mg capsule
+a4d5.	Spasmonal Forte 120mg capsule
+a4dz.	Alverine citrate 60mg capsule
+a4e1.	Colofac 135mg tablet
+a4e5.	Fybogel Mebeverine sachet
+a4ev.	Mebeverine hydrochloride 200mg m/r capsule
+a4ex.	Mebeverine hydrochloride 135mg tablet
+a4f1.	Colpermin 0.2mL m/r gel e/c capsule
+a4f3.	Peppermint oil BP 0.2mL e/c capsule
+a4f4.	Peppermint oil BP 0.2mL m/r gel e/c capsule
+a61v.	Cimetidine 400mg tablet
+a61w.	Cimetidine 800mg tablet
+a621.	Zantac 150mg tablet
+a623.	Zantac 300mg tablet
+a62w.	Ranitidine 150mg tablet
+a62y.	Ranitidine 300mg tablet
+a691.	Nizatidine 150mg capsule
+a6b1.	Omeprazole 20mg capsule
+a6b2.	Losec 20mg capsules x28
+a6b3.	Losec 20mg capsule
+a6b5.	Omeprazole 40mg capsule
+a6b7.	Omeprazole 10mg capsule
+a6bD.	Losec MUPS 20mg tablet
+a6bP.	MEPRADEC 20mg e/c capsules
+a6bu.	Omeprazole 10mg e/c tablet
+a6bv.	Omeprazole 20mg e/c tablet
+a6bx.	Omeprazole 10mg tablet
+a6by.	Omeprazole 20mg tablet
+a6c1.	Zoton 30mg capsule
+a6c2.	Lansoprazole 30mg capsule
+a6c3.	Lansoprazole 15mg capsule
+a6c7.	Lansoprazole 15mg oro-dispersible tablet
+a6c8.	Lansoprazole 30mg oro-dispersible tablet
+a6cA.	Zoton FasTab 30mg oro-dispersible tablet
+a6e1.	Pantoprazole 40mg e/c tablet
+a6e5.	Pantoprazole 20mg e/c tablet
+a6f1.	Rabeprazole sodium 10mg e/c tablet
+a6f2.	Rabeprazole sodium 20mg e/c tablet
+a6h1.	Nexium 20mg tablet
+a6hu.	ESOMEPRAZOLE 40mg gastro-resistant capsules
+a6hv.	ESOMEPRAZOLE 20mg gastro-resistant capsules
+a6hy.	Esomeprazole 40mg tablet
+a6hz.	Esomeprazole 20mg tablet
+a821.	Lomotil tablet
+a83x.	Loperamide hydrochloride 2mg tablet
+a83y.	Loperamide hydrochloride 2mg capsule
+aa31.	Asacol MR 400mg e/c tablet
+aa3B.	Mesalazine 250mg e/c tablet
+aa3C.	Pentasa SR 500mg m/r tablet
+aa3S.	Mesren MR 400mg m/r tablet
+aa3e.	PENTASA 1g m/r tablets
+aa3i.	OCTASA 400mg m/r tablets
+aa3z.	Mesalazine 400mg e/c tablet
+aa6v.	Sulfasalazine 500mg tablet
+aaA1.	Balsalazide disodium 750mg capsule
+ab21.	Fybogel 3.5g/sachet s/f granules
+ab22.	Fybogel Orange 3.5g/sachet s/f granules
+ab28.	Manevac granules 250g
+ab29.	Manevac sachets 4x14
+ab2A.	Manevac granules 400g
+ab2H.	Fybogel Lemon 3.5g/sachet s/f granules
+ab2n.	Ispaghula husk 3.5g/sachet s/f powder
+ab2q.	Ispaghula husk orange 3.5g/sachet s/f granules
+ac11.	Bisacodyl 5mg e/c tablet
+ac59.	Docusate sodium 100mg capsule
+ac71.	Senna 7.5mg tablet
+ac7v.	Senna 7.5mg/5mL s/f syrup
+ac8y.	Sodium picosulfate 5mg/5mL elixir
+ae11.	Lactulose 3.35g/5mL oral solution
+ae46.	Movicol oral powder
+ae4b.	MOVICOL PLAIN 13.7g/sachet oral powder
+ae4c.	LAXIDO ORANGE oral powder sachets
+ae4e.	COMPOUND MACROGOL sugar free oral powder sachet
+ae4k.	COSMOCOL orange oral powder sachet
+ae4m.	COSMOCOL orange+lemon+lime oral powder sachet
+af15.	Glycerol 4g adult suppository
+af1k.	Micralax Micro-enema 5mL
+ai12.	Colifoam 10% foam 20.8g
+aj15.	Anusol-HC ointment 30g
+aj16.	Anusol HC suppository
+aj1a.	Proctosedyl ointment 30g
+aj1b.	Proctosedyl suppository
+aj1c.	Scheriproct ointment 30g
+aj1d.	Scheriproct suppository
+aj1i.	Xyloproct ointment 30g
+aj1l.	Uniroid-HC suppository
+aj1t.	Xyloproct ointment 20g
+ak2z.	Glyceryl trinitrate 0.4% ointment
+am32.	Ursofalk 250mg capsule
+am3z.	Ursodeoxycholic acid 250mg capsule
+ap1s.	Creon 10000 e/c granules in capsule
+aw11.	Orlistat 120mg capsule
+b111.	Digoxin 62.5micrograms tablet
+b112.	Digoxin 125micrograms tablet
+b113.	Digoxin 250micrograms tablet
+b211.	Bendroflumethiazide 2.5mg tablet
+b212.	Bendroflumethiazide 5mg tablet
+b285.	Indapamide 1.5mg m/r tablet
+b28z.	Indapamide 2.5mg tablet
+b311.	Furosemide 20mg tablet
+b312.	Furosemide 40mg tablet
+b32u.	Bumetanide 1mg tablet
+b41z.	Amiloride hydrochloride 5mg tablet
+b431.	Spironolactone 25mg tablet
+b432.	Spironolactone 50mg tablet
+b433.	Spironolactone 100mg tablet
+b45z.	Eplerenone 25mg tablet
+b51k.	Co-amilozide 5mg/50mg tablet
+b51r.	Navispare tablet
+b51x.	Co-amilofruse 2.5mg/20mg tablet
+b51y.	Co-amilofruse 5mg/40mg tablet
+bB1z.	Ivabradine 5mg tablet
+bD1y.	RANOLAZINE 500mg m/r tablets
+bD1z.	RANOLAZINE 375mg m/r tablets
+bb1x.	Amiodarone hydrochloride 100mg tablet
+bb1y.	Amiodarone hydrochloride 200mg tablet
+bb31.	Verapamil hydrochloride 40mg tablet
+bb3A.	Verapamil hydrochloride 240mg m/r tablet
+bb3C.	Verapamil hydrochloride 120mg m/r tablet
+bb3j.	Securon SR 240mg m/r tablet
+bb3s.	Vertab SR 240 m/r tablet
+bb3v.	Verapamil hydrochloride 120mg m/r capsule
+bb3y.	Verapamil hydrochloride 240mg m/r capsule
+bc3x.	Flecainide acetate 50mg tablet
+bc3y.	Flecainide acetate 100mg tablet
+bd11.	Propranolol hydrochloride 10mg tablet
+bd12.	Propranolol hydrochloride 40mg tablet
+bd13.	Propranolol hydrochloride 80mg tablet
+bd1l.	Half-Inderal LA 80mg m/r capsule
+bd1r.	Inderal-LA 160mg m/r capsule
+bd1x.	Propranolol hydrochloride 160mg m/r capsule
+bd1y.	Propranolol hydrochloride 80mg m/r capsule
+bd34.	Tenormin LS 50mg tablet
+bd35.	Atenolol 50mg tablet
+bd36.	Atenolol 100mg tablet
+bd3j.	Atenolol 25mg tablet
+bd6x.	Metoprolol tartrate 50mg tablet
+bdc4.	Sotacor 80mg tablet
+bdcu.	Sotalol hydrochloride 40mg tablet
+bdcv.	Sotalol hydrochloride 80mg tablet
+bdem.	Co-tenidone 50mg/12.5mg tablet
+bden.	Co-tenidone 100mg/25mg tablet
+bdf1.	Bisoprolol fumarate 5mg tablet
+bdf2.	Bisoprolol fumarate 10mg tablet
+bdfA.	Cardicor 2.5mg tablet
+bdfw.	Bisoprolol fumarate 1.25mg tablet
+bdfx.	Bisoprolol fumarate 2.5mg tablet
+bdfy.	Bisoprolol fumarate 3.75mg tablet
+bdfz.	Bisoprolol fumarate 7.5mg tablet
+bdj1.	Celiprolol hydrochloride 200mg tablet
+bdl3.	Carvedilol 12.5mg tablet
+bdl4.	Carvedilol 25mg tablet
+bdl5.	Carvedilol 3.125mg tablet
+bdl6.	Carvedilol 6.25mg tablet
+bdmz.	Nebivolol 5mg tablet
+bf1w.	Clonidine hydrochloride 100micrograms tablet
+bf41.	Moxonidine 200micrograms tablet
+bf42.	Moxonidine 400micrograms tablet
+bh4w.	Prazosin hydrochloride 500micrograms tablet
+bh4x.	Prazosin hydrochloride 1mg tablet
+bh55.	Terazosin 5mg tablet
+bh61.	Doxazosin 1mg tablet
+bh62.	Doxazosin 2mg tablet
+bh63.	Doxazosin 4mg tablet
+bh67.	Cardura XL 4mg m/r tablet
+bh68.	Cardura XL 8mg m/r tablet
+bh6y.	Doxazosin 8mg m/r tablet
+bh6z.	Doxazosin 4mg m/r tablet
+bi1c.	Capozide 50mg tablets x28
+bi1s.	CAPOZIDE 50mg/25mg tablets
+bi2t.	Enalapril maleate 2.5mg tablet
+bi2u.	Enalapril maleate 5mg tablet
+bi2v.	Enalapril maleate 5mg tablets x28
+bi2w.	Enalapril maleate 10mg tablet
+bi2x.	Enalapril maleate 10mg tablets x28
+bi2y.	Enalapril maleate 20mg tablet
+bi2z.	Enalapril maleate 20mg tablets x28
+bi31.	Lisinopril 2.5mg tablet
+bi32.	Lisinopril 5mg tablet
+bi33.	Lisinopril 10mg tablet
+bi34.	Lisinopril 20mg tablet
+bi3p.	Lisinopril+hydrochlorothiazide 20mg/12.5mg tablet
+bi3t.	Lisinopril+hydrochlorothiazide 10mg/12.5mg tablet
+bi41.	Quinapril 5mg tablet
+bi42.	Quinapril 10mg tablet
+bi43.	Quinapril 20mg tablet
+bi4A.	Quinapril 40mg tablet
+bi51.	Perindopril erbumine 2mg tablet
+bi52.	Perindopril erbumine 4mg tablet
+bi57.	Perindopril erbumine 8mg tablet
+bi61.	Ramipril 1.25mg capsule
+bi62.	Ramipril 2.5mg capsule
+bi63.	Ramipril 5mg capsule
+bi66.	Tritace 5mg capsule
+bi67.	Ramipril 10mg capsule
+bi6B.	Ramipril 1.25mg tablet
+bi6C.	Ramipril 2.5mg tablet
+bi6D.	Ramipril 5mg tablet
+bi6E.	Ramipril 10mg tablet
+bi92.	Trandolapril 1mg capsule
+bi93.	Trandolapril 2mg capsule
+bi9z.	Trandolapril 4mg capsule
+bk31.	Losartan potassium 25mg tablet
+bk32.	Losartan potassium 50mg tablet
+bk35.	Losartan potassium+hydrochlorothiazide 50mg/12.5mg tablet
+bk36.	Cozaar-Comp 50mg/12.5mg tablet
+bk37.	Losartan potassium 100mg tablet
+bk3C.	LOSARTAN POTASSIUM 12.5mg tablets
+bk3y.	LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets
+bk3z.	Losartan potassium+hydrochlorothiazide 100mg/25mg tablet
+bk41.	Valsartan 40mg capsule
+bk42.	Valsartan 80mg capsule
+bk43.	Valsartan 160mg capsule
+bk4y.	Valsartan+hydrochlorothiazide 160mg/25mg tablet
+bk4z.	Valsartan+hydrochlorothiazide 160mg/12.5mg tablet
+bk51.	Irbesartan 75mg tablet
+bk52.	Irbesartan 150mg tablet
+bk53.	Irbesartan 300mg tablet
+bk5y.	Irbesartan+hydrochlorothiazide 300mg/12.5mg tablet
+bk71.	Candesartan cilexetil 2mg tablet
+bk72.	Candesartan cilexetil 4mg tablet
+bk73.	Candesartan cilexetil 8mg tablet
+bk74.	Candesartan cilexetil 16mg tablet
+bk7z.	Candesartan cilexetil 32mg tablet
+bk81.	Telmisartan 40mg tablet
+bk82.	Telmisartan 80mg tablet
+bk8z.	Telmisartan 20mg tablet
+bk9x.	Eprosartan 300mg tablet
+bkB1.	Olmesartan medoxomil 10mg tablet
+bkB2.	Olmesartan medoxomil 20mg tablet
+bkB3.	Olmesartan medoxomil 40mg tablet
+bl3L.	Isosorbide mononitrate 60mg m/r capsule
+bl3T.	Isotard 60XL m/r tablet
+bl3Y.	Isosorbide mononitrate 25mg m/r tablet
+bl3b.	Imdur 60mg Durule
+bl3h.	Ismo Retard 40mg m/r tablet
+bl3u.	Isosorbide mononitrate 25mg m/r capsule
+bl3v.	Isosorbide mononitrate 10mg tablet
+bl3w.	Isosorbide mononitrate 20mg tablet
+bl3x.	Isosorbide mononitrate 40mg tablet
+bl3y.	Isosorbide mononitrate 60mg m/r tablet
+bl51.	Tildiem 60mg m/r tablet
+bl58.	Tildiem Retard 90mg long acting m/r tablet
+bl59.	Tildiem Retard 120mg long acting m/r tablet
+bl5A.	Tildiem LA 300mg long acting m/r capsule
+bl5B.	Adizem-SR 90mg long acting m/r capsule
+bl5J.	Adizem-XL 180mg m/r capsule
+bl5M.	Dilzem XL 180mg m/r capsule
+bl5R.	Angitil SR 90 m/r capsule
+bl5S.	Angitil SR 120 m/r capsule
+bl5Z.	Tildiem LA 200mg m/r capsule
+bl5b.	Diltiazem hydrochloride 300mg m/r capsule
+bl5c.	Diltiazem hydrochloride 90mg m/r capsule
+bl5d.	Diltiazem hydrochloride 120mg m/r capsule
+bl5h.	Diltiazem hydrochloride 200mg m/r capsule
+bl5o.	Viazem XL 120mg m/r capsule
+bl5p.	Viazem XL 180mg m/r capsule
+bl5r.	Viazem XL 300mg m/r capsule
+bl5t.	Viazem XL 360mg m/r capsule
+bl5y.	Angitil XL 300 m/r capsule
+bl5z.	Diltiazem hydrochloride 60mg m/r tablet
+bl7y.	Nicardipine hydrochloride 20mg capsule
+bl83.	Adalat Retard 20 m/r tablet
+bl84.	Adalat Retard 10 m/r tablet
+bl85.	Nifedipine 5mg capsule
+bl86.	Nifedipine 10mg capsule
+bl8F.	Nifedipine 40mg m/r tablet
+bl8K.	Tensipine MR 20 m/r tablet
+bl8L.	Fortipine LA40 m/r tablet
+bl8M.	Adalat LA 20mg m/r tablet
+bl8W.	Nifedipine 60mg m/r capsule
+bl8X.	Coracten XL 30mg m/r capsule
+bl8e.	Coracten SR 20mg m/r capsule
+bl8i.	Adalat LA 30mg m/r tablet
+bl8j.	Adalat LA 60mg m/r tablet
+bl8v.	Nifedipine 20mg m/r capsule
+bl8w.	Nifedipine 10mg m/r tablet
+bl8y.	Nifedipine 60mg m/r tablet
+blb1.	Amlodipine 5mg tablet
+blb2.	Amlodipine 10mg tablet
+blb3.	Istin 5mg tablet
+blb5.	Amlostin 5mg tablet
+blb6.	Amlostin 10mg tablet
+blc1.	Felodipine 5mg m/r tablet
+blc2.	Felodipine 10mg m/r tablet
+blc5.	Felodipine 2.5mg m/r tablet
+ble1.	Lacidipine 2mg tablet
+ble2.	Lacidipine 4mg tablet
+blf1.	Nicorandil 10mg tablet
+blf2.	Nicorandil 20mg tablet
+blh1.	Lercanidipine hydrochloride 10mg tablet
+blj1.	Zemtard 120 XL m/r capsule
+bljP.	Adizem-XL 200mg m/r capsule
+blkB.	Xismox XL 60 m/r tablet
+blkN.	Monomil XL 60mg m/r tablet
+blzA.	Glyceryl trinitrate 400micrograms spray
+blzD.	Glyceryl trinitrate 500micrograms sublingual tablet
+blzI.	Glyceryl trinitrate 400micrograms CFC-free spray
+bp1A.	Epipen 300micrograms/0.3mL preloaded injection pen
+br2E.	Dalteparin sodium 18,000iu/0.72mL prefilled syringe
+br2o.	Dalteparin sodium 25,000iu/mL prefilled syringe 0.2mL
+bs11.	Marevan 1mg tablet
+bs17.	Warfarin sodium 1mg tablet
+bs18.	Warfarin sodium 3mg tablet
+bs19.	Warfarin sodium 5mg tablet
+bs1A.	Warfarin sodium 0.5mg tablet
+bs6x.	RIVAROXABAN 20mg tablets
+bs74.	APIXABAN 5mg tablets
+bu1C.	Dipyridamole 200mg m/r capsule
+bu23.	Aspirin 75mg dispersible tablet
+bu25.	Aspirin 75mg tablet
+bu2A.	Nu-Seals Aspirin 75mg e/c tablet
+bu2B.	Aspirin 75mg e/c tablet
+bu42.	Asasantin Retard m/r capsule
+bu51.	Clopidogrel 75mg tablet
+buA4.	PRASUGREL 10mg tablets
+buBz.	TICAGRELOR 90mg tablets
+bw34.	Tranexamic acid 500mg tablet
+bx12.	Bezalip-Mono 400mg m/r tablet
+bx13.	Bezafibrate 200mg tablet
+bx14.	Bezafibrate 400mg m/r tablet
+bx22.	Questran Light 4g/sachet powder
+bx42.	Colestipol hydrochloride 5g/sachet granules
+bx44.	Colestipol hydrochloride 5g/sachet orange granules
+bxa7.	Omacor 1g capsule
+bxc6.	Fenofibrate 67mg capsule
+bxc8.	Fenofibrate 267mg capsule
+bxcA.	Fenofibrate 160mg m/r tablet
+bxcB.	Supralip 160mg m/r tablet
+bxcC.	Fenofibrate Micro 200mg capsule
+bxd1.	Simvastatin 10mg tablet
+bxd2.	Simvastatin 20mg tablet
+bxd3.	Zocor 10mg tablets 28CP
+bxd5.	Simvastatin 40mg tablet
+bxd6.	Zocor 40mg tablet
+bxd7.	Zocor 10mg tablet
+bxdB.	Simvador 20mg tablet
+bxdC.	Simvador 40mg tablet
+bxdz.	Simvastatin 80mg tablet
+bxe5.	Pravastatin sodium 10mg tablet
+bxe6.	Pravastatin sodium 20mg tablet
+bxe7.	Pravastatin sodium 40mg tablet
+bxf2.	Ciprofibrate 100mg tablet
+bxg3.	Fluvastatin 20mg capsule
+bxg4.	Fluvastatin 40mg capsule
+bxi1.	Atorvastatin 10mg tablet
+bxi2.	Atorvastatin 20mg tablet
+bxi3.	Atorvastatin 40mg tablet
+bxi4.	Lipitor 10mg tablet
+bxi5.	Lipitor 20mg tablet
+bxiz.	Atorvastatin 80mg tablet
+bxkw.	Rosuvastatin 5mg tablet
+bxkx.	Rosuvastatin 10mg tablet
+bxky.	Rosuvastatin 20mg tablet
+bxkz.	Rosuvastatin 40mg tablet
+bxl1.	Ezetimibe 10mg tablet
+bxlz.	Ezetrol 10mg tablet
+c134.	Ventolin 100micrograms inhaler
+c136.	Ventolin 200micrograms Rotacap
+c137.	Ventolin 400micrograms Rotacap
+c13F.	Salbutamol 400micrograms/blister disks refill
+c13G.	Salbutamol 100micrograms breath-actuated aerosol inhaler
+c13I.	Airomir 100micrograms CFC-free inhaler
+c13J.	Salbutamol 100micrograms CFC-free inhaler
+c13L.	Salbutamol 200micrograms breath-actuated dry powder inhaler
+c13M.	Ventolin 200micrograms Accuhaler
+c13O.	Ventolin Easi-Breathe 100microgram inhaler
+c13T.	Ventolin 100micrograms Evohaler
+c13U.	Salbutamol 100micrograms CFC-free breath-actuated aerosol inhaler
+c13o.	Salbutamol 5mg/2.5mL nebulisation unit
+c13p.	Maxivent 100micrograms inhaler
+c13v.	Salbutamol 100micrograms inhaler
+c13w.	Salbutamol 2.5mg/2.5mL nebulisation unit
+c144.	Bricanyl 250micrograms inhaler
+c14f.	Bricanyl 500micrograms Turbohaler
+c14j.	Terbutaline sulphate 500micrograms breath-actuated dry powder inhaler
+c191.	Salmeterol 25micrograms inhaler
+c192.	Serevent 25micrograms inhaler
+c197.	Salmeterol 50micrograms breath-actuated dry powder inhaler
+c198.	Serevent 50micrograms Accuhaler
+c199.	Serevent 25micrograms Evohaler
+c19z.	Salmeterol 25micrograms CFC-free inhaler
+c1A2.	Sodium chloride 0.9% nebulisation unit
+c1C4.	Formoterol fumarate dihydrate 12micrograms breath-actuated dry powder inhaler
+c1C6.	Oxis 12micrograms Turbohaler
+c1C8.	FORMOTEROL EASYHALER 12micrograms breath-act dry powder inhaler
+c1D1.	Seretide 100 Accuhaler
+c1D2.	Seretide 250 Accuhaler
+c1D3.	Seretide 500 Accuhaler
+c1D4.	Seretide 50 Evohaler
+c1D5.	Seretide 125 Evohaler
+c1D6.	Seretide 250 Evohaler
+c1Du.	Salmeterol+fluticasone propionate 25micrograms/50micrograms CFC-free inhaler
+c1Dv.	Salmeterol+fluticasone propionate 25micrograms/125micrograms CFC-free inhaler
+c1Dw.	Salmeterol+fluticasone propionate 25micrograms/250micrograms CFC-free inhaler
+c1Dy.	Salmeterol+fluticasone propionate 50micrograms/250micrograms breath-actuated dry powder inhaler
+c1E1.	Salamol Easi-Breathe 100micrograms CFC-free breath-actuated aerosol inhaler
+c1E7.	Easyhaler Salbutamol 100micrograms breath-actuated dry powder inhaler
+c1E8.	Easyhaler Salbutamol 200micrograms breath-actuated dry powder inhaler
+c31G.	Atrovent 20micrograms CFC-free inhaler
+c31t.	Ipratropium bromide 20micrograms CFC-free inhaler
+c31w.	Ipratropium bromide 500micrograms/2mL nebuliser solution
+c331.	Tiotropium 18micrograms inhalation capsule
+c332.	Tiotropium 18micrograms capsule+inhaler device
+c333.	TIOTROPIUM 2.5micrograms inhalation cartridges with inhaler device
+c33z.	Spiriva 18micrograms inhalation capsule
+c342.	ACLIDINIUM 322micrograms/dose dry powder inhaler
+c43e.	Uniphyllin Continus 400mg m/r tablet
+c43f.	Uniphyllin Continus 200mg m/r tablet
+c43h.	Uniphyllin Continus 300mg m/r tablet
+c51D.	Combivent inhaler
+c51i.	Duovent inhaler
+c611.	Becloforte 250micrograms inhaler
+c612.	Becotide 50 inhaler
+c614.	Becotide 200micrograms Rotacap
+c617.	Becotide 100 inhaler
+c61E.	Beclometasone dipropionate 250micrograms breath-actuated aerosol inhaler
+c61F.	Beclometasone dipropionate 100micrograms breath-actuated aerosol inhaler
+c61L.	Beclazone 100 inhaler
+c61M.	Beclazone 250 inhaler
+c61O.	Beclazone 100 Easi-Breathe inhaler
+c61i.	Becotide 200 inhaler
+c61t.	Beclometasone dipropionate 250micrograms inhaler
+c61u.	Beclometasone dipropionate 200micrograms inhaler
+c61v.	Beclometasone dipropionate 50micrograms inhaler
+c61z.	Beclometasone dipropionate 100micrograms inhaler
+c621.	Ventide inhaler
+c648.	Pulmicort 200micrograms Turbohaler 100dose
+c649.	Pulmicort 400micrograms Turbohaler 50dose
+c64I.	Easyhaler Budesonide 200micrograms breath-actuated dry powder inhaler
+c64c.	Pulmicort 100micrograms Turbohaler 200dose
+c64g.	Budesonide 200micrograms breath-actuated dry powder inhaler
+c65F.	Flixotide 125micrograms inhaler
+c65I.	Fluticasone propionate 125micrograms inhaler
+c65J.	Fluticasone propionate 250micrograms inhaler
+c65K.	Flixotide 250micrograms inhaler
+c65Q.	Fluticasone propionate 100micrograms breath-actuated dry powder inhaler
+c65b.	Fluticasone propionate 125micrograms CFC-free inhaler
+c65c.	Fluticasone propionate 250micrograms CFC-free inhaler
+c65f.	Fluticasone propionate 50micrograms CFC-free inhaler
+c663.	Becotide 100 Easi-Breathe inhaler
+c665.	Qvar 50 inhaler
+c666.	Qvar 100 inhaler
+c667.	Qvar 50 Autohaler
+c668.	Qvar 100 Autohaler
+c66Z.	Qvar Easi-Breathe 50micrograms CFC-free breath-actuated dry powder inhaler
+c66a.	Qvar Easi-Breathe 100micrograms CFC-free breath-actuated dry powder inhaler
+c66c.	CLENIL MODULITE 50micrograms CFC-free inhaler
+c66d.	CLENIL MODULITE 100micrograms CFC-free inhaler
+c66e.	CLENIL MODULITE 200micrograms CFC-free inhaler
+c66f.	CLENIL MODULITE 250micrograms CFC-free inhaler
+c671.	Symbicort 100/6 Turbohaler
+c672.	Symbicort 200/6 Turbohaler
+c673.	Symbicort 400/12 Turbohaler
+c674.	DUORESP SPIROMAX 160mcg/4.5mcg breath-act dry powder inhaler
+c675.	DUORESP SPIROMAX 320mcg/9mcg breath-act dry powder inhaler
+c67x.	Budesonide+formoterol fumarate dihydrate 400micrograms/12micrograms breath-actuated dry powder inhaler
+c67y.	Budesonide+formoterol fumarate dihydrate 200micrograms/6micrograms breath-actuated dry powder inhaler
+c67z.	Budesonide+formoterol fumarate dihydrate 100micrograms/6micrograms breath-actuated dry powder inhaler
+c6A1.	FOSTAIR 100micrograms/6micrograms inhaler
+c6A3.	FOSTAIR 200micrograms/6micrograms inhaler
+c6Az.	BECLOMETASONE DIPROPIONATE+FORMETEROL FUMARATE DIHYDRATE 100micrograms/6micrograms inhaler
+c841.	Chlorphenamine maleate 4mg tablet
+c843.	Piriton 4mg tablet
+c8iw.	Promethazine hydrochloride 25mg tablet
+c8j1.	Triludan 60mg tablet
+c8j3.	Triludan Forte 120mg tablet
+c8jy.	Terfenadine 60mg tablet
+c8m1.	Acrivastine 8mg capsule
+c8n1.	Cetirizine dihydrochloride 10mg tablet
+c8n2.	Zirtek Allergy 10mg tablet
+c8o1.	Loratadine 10mg tablet
+c8o2.	Clarityn 10mg tablet
+c8p1.	Fexofenadine hydrochloride 120mg tablet
+c8p2.	Telfast 120 tablet
+c8p3.	Fexofenadine hydrochloride 180mg tablet
+c8q1.	Mizolastine 10mg m/r tablet
+c8r1.	Neoclarityn 5mg tablet
+c8rz.	Desloratadine 5mg tablet
+c8s1.	Xyzal 5mg tablet
+c8sz.	Levocetirizine dihydrochloride 5mg tablet
+cA11.	Montelukast 10mg tablet
+ce31.	Carbocisteine 375mg capsule
+ce34.	Carbocisteine 250mg/5mL syrup
+cg11.	Codeine phosphate 15mg/5mL linctus
+cg71.	Pholcodine 5mg/5mL linctus
+cg72.	Pholcodine strong 10mg/5mL linctus
+ch14.	Simple linctus
+ci1w.	Pseudoephedrine hydrochloride 60mg tablet
+d161.	Loprazolam 1mg tablet
+d182.	Nitrazepam 5mg tablet
+d1a9.	Temazepam 10mg tablet
+d1aa.	Temazepam 20mg tablet
+d1d1.	Zopiclone 7.5mg tablet
+d1d2.	Zimovane 7.5mg tablet
+d1d3.	Zopiclone 3.75mg tablet
+d1f2.	Zolpidem tartrate 5mg tablet
+d1f3.	Zolpidem tartrate 10mg tablet
+d1f4.	Stilnoct 10mg tablet
+d213.	Diazepam 2mg tablet
+d214.	Diazepam 5mg tablet
+d215.	Diazepam 10mg tablet
+d241.	Chlordiazepoxide hydrochloride 5mg capsule
+d242.	Chlordiazepoxide hydrochloride 10mg capsule
+d243.	Chlordiazepoxide hydrochloride 5mg tablet
+d263.	Clobazam 10mg tablet
+d28x.	Hydroxyzine hydrochloride 10mg tablet
+d28y.	Hydroxyzine hydrochloride 25mg tablet
+d2a1.	Lorazepam 1mg tablet
+d2d3.	Oxazepam 15mg tablet
+d412.	Chlorpromazine hydrochloride 25mg tablet
+d413.	Chlorpromazine hydrochloride 50mg tablet
+d414.	Chlorpromazine hydrochloride 100mg tablet
+d471.	Haloperidol 1.5mg tablet
+d472.	Haloperidol 5mg tablet
+d473.	Haloperidol 10mg tablet
+d47r.	Haloperidol 500micrograms capsule
+d4e4.	Promazine hydrochloride 25mg tablet
+d4ev.	Promazine hydrochloride 25mg/5mL syrup
+d4fz.	Sulpiride 200mg tablet
+d4gu.	Thioridazine hydrochloride 25mg tablet
+d4ht.	Trifluoperazine 5mg tablet
+d4p1.	Risperidone 1mg tablet
+d4p2.	Risperidone 2mg tablet
+d4p3.	Risperidone 3mg tablet
+d4pG.	Risperdal Consta 50mg powder+solvent for suspension for injection
+d4px.	Risperidone 37.5mg powder+solvent for suspension for injection
+d4r1.	Olanzapine 5mg tablet
+d4r3.	Olanzapine 10mg tablet
+d4r7.	Olanzapine 2.5mg tablet
+d4rt.	OLANZAPINE 20mg tablets
+d4s1.	Quetiapine 25mg tablet
+d4s2.	Quetiapine 100mg tablet
+d4s3.	Quetiapine 200mg tablet
+d4sw.	QUETIAPINE 50mg m/r tablets
+d4sx.	Quetiapine 300mg tablet
+d4vy.	Aripiprazole 15mg tablet
+d4vz.	Aripiprazole 10mg tablet
+d514.	Depixol 40mg/2mL prefilled syringe
+d612.	Camcolit 400 m/r tablet
+d615.	Priadel 400mg m/r tablet
+d616.	Priadel 200mg m/r tablet
+d61s.	Lithium carbonate 200mg m/r tablet
+d61z.	Lithium carbonate 400mg m/r tablet
+d711.	Amitriptyline hydrochloride 10mg tablet
+d712.	Amitriptyline hydrochloride 25mg tablet
+d713.	Amitriptyline hydrochloride 50mg tablet
+d73u.	Clomipramine hydrochloride 10mg capsule
+d73z.	Clomipramine hydrochloride 75mg m/r tablet
+d751.	Prothiaden 25mg capsule
+d752.	Prothiaden 75mg tablet
+d75y.	Dosulepin hydrochloride 25mg capsule
+d75z.	Dosulepin hydrochloride 75mg tablet
+d771.	Imipramine hydrochloride 10mg tablet
+d772.	Imipramine hydrochloride 25mg tablet
+d791.	Gamanil 70mg tablets x56CP
+d79z.	Lofepramine 70mg tablet
+d7c6.	Nortriptyline 10mg tablet
+d7c8.	Nortriptyline 25mg tablet
+d7e5.	Trazodone hydrochloride 150mg tablet
+d7ew.	Trazodone hydrochloride 100mg capsule
+d7ex.	Trazodone hydrochloride 50mg capsule
+d811.	Nardil 15mg tablet
+d81z.	Phenelzine 15mg tablet
+d851.	Manerix 150mg tablet
+d852.	Moclobemide 150mg tablet
+d854.	Moclobemide 300mg tablet
+da1z.	Flupentixol 1mg tablet
+da41.	Fluoxetine 20mg capsule
+da42.	Prozac 20mg capsules x30
+da43.	Fluoxetine 20mg/5mL oral liquid
+da45.	Prozac 20mg capsule
+da46.	Fluoxetine 60mg capsule
+da51.	Sertraline 50mg tablet
+da52.	Sertraline 100mg tablet
+da53.	Lustral 50mg tablet
+da61.	Paroxetine 20mg tablet
+da62.	Seroxat 20mg tablets x30
+da63.	Paroxetine 30mg tablet
+da64.	Seroxat 30mg tablets x30
+da67.	PAROXETINE 10mg tablets
+da71.	Venlafaxine 37.5mg tablet
+da72.	Venlafaxine 75mg tablet
+da77.	Venlafaxine 75mg m/r capsule
+da78.	Efexor XL 75mg m/r capsule
+da79.	Venlafaxine 150mg m/r capsule
+da7I.	VENLAFAXINE 75mg m/r tablets
+da7K.	VENLAFAXINE 150mg m/r tablets
+da7V.	VENLALIC XL 75mg m/r tablets
+da7W.	VENLALIC XL 150mg m/r tablets
+da7X.	VENLALIC XL 225mg m/r tablets
+da7Y.	VENLAFAXINE 225mg m/r tablets
+da91.	Citalopram 20mg tablet
+da92.	Cipramil 20mg tablet
+da93.	Citalopram 10mg tablet
+da94.	Cipramil 10mg tablet
+da95.	Citalopram 40mg tablet
+daA1.	Reboxetine 4mg tablet
+daB1.	Mirtazapine 30mg tablet
+daB3.	Mirtazapine 30mg oro-dispersible tablet
+daB5.	Mirtazapine 15mg oro-dispersible tablet
+daB7.	Mirtazapine 45mg oro-dispersible tablet
+daBy.	Mirtazapine 45mg tablet
+daBz.	Mirtazapine 15mg tablet
+daC1.	Escitalopram 10mg tablet
+daC2.	Cipralex 10mg tablet
+daC3.	Escitalopram 20mg tablet
+daC5.	Escitalopram 5mg tablet
+daD2.	AGOMELATINE 25mg tablets
+df6y.	Sibutramine hydrochloride monohydrate 10mg capsule
+df6z.	Sibutramine hydrochloride monohydrate 15mg capsule
+dh13.	Betahistine hydrochloride 16mg tablet
+dh1z.	Betahistine hydrochloride 8mg tablet
+dh3z.	Cinnarizine 15mg tablet
+dh4y.	Cyclizine hydrochloride 50mg tablet
+dh7x.	Domperidone 10mg tablet
+dhb1.	Metoclopramide hydrochloride 10mg tablet
+dhe1.	Stemetil 5mg tablet
+dhed.	Prochlorperazine maleate 3mg buccal tablet
+dher.	Prochlorperazine maleate 5mg tablet
+dhj1.	Cisapride 10mg tablet
+di21.	Paracetamol 500mg tablet
+di22.	Paracetamol 500mg soluble tablet
+di2q.	Paracetamol 500mg capsule
+di81.	Synflex 275mg tablet
+di8z.	Naproxen sodium 275mg tablet
+di9y.	Nefopam hydrochloride 30mg tablet
+dia2.	Co-codamol 8mg/500mg tablet
+dia6.	Co-dydramol 10mg/500mg tablet
+dia7.	Co-proxamol 32.5mg/325mg tablet
+diaU.	Paracetamol+codeine phosphate 500mg/15mg tablet
+diam.	Kapake tablet
+dian.	Paracetamol+codeine phosphate 500mg/30mg tablet
+diap.	Co-codamol 8mg/500mg effervescent tablet
+diaq.	Co-codamol 8mg/500mg capsule
+dibB.	Paracetamol+codeine phosphate 500mg/30mg effervescent tablet
+dibD.	Paracetamol+codeine phosphate 500mg/30mg capsule
+dibt.	Tylex capsule
+dibu.	Solpadol effervescent tablet
+dibz.	Solpadol Caplet
+dic3.	Zapain Caplet
+dic4.	Zapain capsule
+dicz.	Paracetamol 325mg / tramadol hydrochloride 37.5mg tablet
+dj1L.	Morphine sulphate 10mg/5mL oral solution
+dj1Z.	Oramorph 10mg/5mL oral solution 300mL
+dj1f.	MST Continus 10mg m/r tablet
+dj1l.	Oramorph 10mg/5mL liquid 100mL
+dj1m.	Oramorph 10mg/5mL liquid 500mL
+dj1p.	Oramorph 10mg/5mL liquid 250mL
+dj35.	Buprenorphine 400micrograms sublingual tablet
+dj3o.	Buprenorphine 5micrograms/hour patch
+dj3p.	Buprenorphine 10micrograms/hour patch
+dj3q.	Buprenorphine 20micrograms/hour patch
+dj3r.	Buprenorphine 70micrograms/hour transdermal patch
+dj3t.	Buprenorphine 35micrograms/hour transdermal patch
+dj3x.	Buprenorphine 200micrograms sublingual tablet
+dj41.	Codeine phosphate 15mg tablet
+dj42.	Codeine phosphate 30mg tablet
+dj81.	Dihydrocodeine tartrate 30mg tablet
+dj88.	Dihydrocodeine tartrate 60mg m/r tablet
+dj8e.	Dihydrocodeine tartrate 40mg tablet
+dji2.	Tramadol hydrochloride 50mg capsule
+dji5.	Tramadol hydrochloride 100mg m/r tablet
+dji7.	Tramadol hydrochloride 200mg m/r tablet
+djiG.	Tramadol hydrochloride 100mg m/r capsule
+djiI.	Tramadol hydrochloride 200mg m/r capsule
+djiv.	TRAMADOL HYDROCHLORIDE 50mg m/r tablets
+djk3.	OxyNorm 20mg capsule
+djk5.	OxyContin 20mg m/r tablet
+djkM.	LONGTEC 10mg m/r tablets
+djki.	OXYCODONE HCL+NALOXONE HCL 40mg/20mg m/r tablets
+djkw.	Oxycodone hydrochloride 10mg m/r tablet
+djkx.	Oxycodone hydrochloride 20mg m/r tablet
+djky.	Oxycodone hydrochloride 40mg m/r tablet
+djz6.	Morphine sulphate 30mg m/r tablet
+djzj.	Zomorph 10mg m/r capsule
+djzk.	Zomorph 30mg m/r capsule
+djzl.	Zomorph 60mg m/r capsule
+dl11.	Migraleve tablet
+dl12.	Migraleve pink tablet
+dl16.	Paramax tablet
+dl17.	Paramax sachet
+dl19.	Migraleve pink tablets x48
+dl1C.	MigraMax sachet powder
+dl54.	Sumatriptan 100mg tablet
+dl55.	Imigran 100mg tablet
+dl58.	Imigran 100mg tablets x3
+dl59.	Imigran 50mg tablet
+dl5A.	Sumatriptan 50mg tablet
+dl71.	Sumatriptan 20mg nasal spray
+dl81.	Zolmitriptan 2.5mg tablet
+dl82.	Zomig 2.5mg tablet
+dl83.	Zolmitriptan 2.5mg oro-dispersible tablet
+dl87.	Zolmitriptan 5mg oro-dispersible tablet
+dl88.	Zomig Rapimelt 5mg oro-dispersible tablet
+dl91.	Naratriptan 2.5mg tablet
+dl92.	Naramig 2.5mg tablet
+dlA2.	Rizatriptan 10mg tablet
+dlA3.	Rizatriptan 10mg wafer
+dlA6.	Maxalt Melt 10mg wafer
+dlCz.	Almotriptan 12.5mg tablet
+dlD2.	Eletriptan 40mg tablet
+dlE1.	Frovatriptan 2.5mg tablet
+dm11.	Dixarit 25mcg tablet
+dm1z.	Clonidine hydrochloride 25micrograms tablet
+dm31.	Sanomigran 500micrograms tablet
+dm3x.	Pizotifen 500micrograms tablet
+dm3y.	Pizotifen 1.5mg tablet
+dn31.	Carbamazepine 100mg tablet
+dn32.	Carbamazepine 200mg tablet
+dn33.	Carbamazepine 400mg tablet
+dn34.	Tegretol 100mg tablet
+dn35.	Tegretol 200mg tablet
+dn38.	Tegretol Retard 200mg m/r tablet
+dn39.	Tegretol Retard 400mg m/r tablet
+dn3a.	Carbamazepine 200mg m/r tablet
+dn3b.	Carbamazepine 400mg m/r tablet
+dn4y.	Clonazepam 500micrograms tablet
+dn72.	Phenobarbital 30mg tablet
+dn92.	Phenytoin sodium 100mg tablet
+dn95.	Epanutin 100mg capsule
+dn9w.	Phenytoin sodium 300mg capsule
+dn9z.	Phenytoin sodium 100mg capsule
+dnb2.	Epilim 200mg e/c tablet
+dnb3.	Epilim 500mg e/c tablet
+dnb7.	Sodium valproate 200mg e/c tablet
+dnb8.	Sodium valproate 500mg e/c tablet
+dnbc.	Epilim Chrono 200 m/r tablet
+dnbd.	Epilim Chrono 300 m/r tablet
+dnbe.	Epilim Chrono 500 m/r tablet
+dnf1.	Lamotrigine 50mg tablet
+dnf2.	Lamotrigine 100mg tablet
+dnf3.	Lamictal 50mg tablet
+dnf5.	Lamotrigine 25mg tablet
+dnfD.	Lamictal 200mg tablet
+dnfE.	Lamotrigine 200mg tablet
+dnfH.	Lamictal Non-Valproate Add-On 50mg starter pack
+dnh7.	Depakote 250mg e/c tablet
+dnh8.	Depakote 500mg e/c tablet
+dnhy.	Valproic acid 500mg e/c tablet
+dnj1.	Gabapentin 100mg capsule
+dnj2.	Gabapentin 300mg capsule
+dnj3.	Gabapentin 400mg capsule
+dnjy.	Gabapentin 600mg tablet
+dnk1.	Topiramate 50mg tablet
+dnk2.	Topiramate 100mg tablet
+dnk3.	Topiramate 200mg tablet
+dnk7.	Topiramate 25mg tablet
+dnl3.	Tiagabine 15mg tablet
+dnow.	Levetiracetam 750mg tablet
+dnox.	Levetiracetam 1g tablet
+dnoy.	Levetiracetam 500mg tablet
+dnoz.	Levetiracetam 250mg tablet
+dnp3.	Lyrica 75mg capsule
+dnp5.	Lyrica 150mg capsule
+dnp7.	Lyrica 300mg capsule
+dnpt.	Pregabalin 300mg capsule
+dnpu.	Pregabalin 200mg capsule
+dnpv.	Pregabalin 100mg capsule
+dnpw.	Pregabalin 150mg capsule
+dnpx.	Pregabalin 75mg capsule
+dnpy.	Pregabalin 50mg capsule
+dnpz.	Pregabalin 25mg capsule
+dnq3.	Zonisamide 100mg capsule
+dq21.	Madopar 62.5 capsule
+dq22.	Madopar 125 capsule
+dq33.	Sinemet-Plus tablet
+dq34.	Sinemet-62.5 tablet
+dq35.	Co-careldopa 12.5mg/50mg tablet
+dq37.	Co-careldopa 25mg/100mg tablet
+dq3C.	Stalevo 100mg / 25mg / 200mg tablet
+dq3b.	Co-careldopa 25mg/100mg m/r tablet
+dq81.	Pergolide 50micrograms tablet
+dq88.	Pergolide 50micrograms tablet starter pack
+dqA1.	Ropinirole 0.25mg tablet
+dqA2.	Ropinirole 1mg tablet
+dqAe.	ROPINIROLE 500micrograms tablets
+dqFz.	Rasagiline 1mg tablet
+dr2y.	Orphenadrine hydrochloride 50mg tablet
+dr6y.	Procyclidine hydrochloride 5mg tablet
+du11.	Disulfiram 200mg tablet
+du39.	Nicotine 14mg/24hours patch
+du3A.	Nicotine 21mg/24hours patch
+du3G.	Nicotine 10mg/16hours patch
+du3H.	Nicotine 15mg/16hours patch
+du51.	Acamprosate calcium 333mg e/c tablet
+du6z.	Bupropion hydrochloride 150mg m/r tablet
+du81.	CHAMPIX 1mg tablets
+du8x.	VARENICLINE 500micrograms+1mg tablets
+du8y.	VARENICLINE 500microgram tablets
+du8z.	VARENICLINE 1mg tablets
+dz11.	Modafinil 100mg tablet
+dz13.	Modafinil 200mg tablet
+e153.	Phenoxymethylpenicillin 250mg tablet
+e221.	Flucloxacillin 250mg capsule
+e222.	Flucloxacillin 500mg capsule
+e311.	Amoxicillin 250mg capsule
+e312.	Amoxicillin 500mg capsule
+e315.	Amoxil 250mg capsule
+e316.	Amoxil 500mg capsule
+e31T.	Augmentin 625mg tablet
+e31U.	Co-amoxiclav 500mg/125mg tablet
+e31h.	Augmentin 375mg tablet
+e31t.	Co-amoxiclav 250mg/125mg tablet
+e335.	Magnapen capsule
+e339.	Co-fluampicil 250mg/250mg capsule
+e619.	Distaclor MR 375mg m/r tablet
+e61a.	Cefaclor 375mg m/r tablet
+e691.	Cefalexin 250mg capsule
+e692.	Cefalexin 500mg capsule
+e693.	Cefalexin 250mg tablet
+e694.	Cefalexin 500mg tablet
+e6dv.	Cefradine 250mg capsule
+e712.	Tetracycline 250mg tablet
+e758.	Doxycycline 100mg capsule
+e76z.	Lymecycline 408mg capsule
+e773.	Minocycline 100mg m/r capsule
+e774.	Minocin MR 100mg m/r capsule
+e782.	Oxytetracycline dihydrate 250mg tablet
+e911.	Erythromycin 250mg e/c tablet
+e912.	Erythromycin 500mg tablet
+e914.	Erythromycin stearate 500mg tablet
+e921.	Clarithromycin 250mg tablet
+e927.	Clarithromycin 500mg tablet
+e929.	Clarithromycin 500mg m/r tablet
+e931.	Azithromycin 250mg capsule
+e937.	Azithromycin 500mg tablet
+eb34.	Colomycin 1million units injection (pdr for recon)
+ec11.	Co-trimoxazole 480mg tablet
+ecc1.	Trimethoprim 100mg tablet
+ecc2.	Trimethoprim 200mg tablet
+ed62.	Rifampicin 300mg capsule
+ef11.	Metronidazole 200mg tablet
+ef12.	Metronidazole 400mg tablet
+eg11.	Nitrofurantoin 50mg tablet
+eg12.	Nitrofurantoin 100mg tablet
+eg1w.	Nitrofurantoin 100mg m/r capsule
+eg1y.	Nitrofurantoin 50mg capsule
+eg1z.	Nitrofurantoin 100mg capsule
+eg6v.	Ciprofloxacin 750mg tablet
+eg6w.	Ciprofloxacin 500mg tablet
+eg6x.	Ciprofloxacin 250mg tablet
+eh32.	Griseofulvin 500mg tablet
+eh5x.	Miconazole 25mg/mL oral gel
+eh71.	Nystatin 100,000units/mL oral suspension
+eh73.	Nystan 100,000units/mL oral suspension
+eh81.	Fluconazole 50mg capsule
+eh82.	Fluconazole 150mg capsule
+eh84.	Diflucan 150mg capsule
+eh91.	Itraconazole 100mg capsule
+eh92.	Sporanox 100mg capsule
+eha1.	Terbinafine 250mg tablet
+eha2.	Lamisil 250mg tablets x14
+eha3.	Lamisil 250mg tablets x28
+ei15.	Aciclovir 200mg tablet
+ei18.	Aciclovir 400mg tablet
+ei1d.	Aciclovir 800mg dispersible tablet
+ei1h.	Aciclovir 200mg dispersible tablet
+ei1o.	Aciclovir 800mg tablet
+ei23.	Amantadine 100mg capsules
+ej71.	Quinine bisulphate 300mg tablet
+ej75.	Quinine sulphate 200mg tablet
+ej76.	Quinine sulphate 300mg tablet
+ej81.	Mefloquine 250mg tablet
+ejB1.	Atovaquone+proguanil hydrochloride 250mg/100mg tablet
+ejB2.	Malarone tablet
+eq1y.	Mebendazole 100mg chewable tablet
+f12A.	Human Actrapid 100iu/mL Penfill cartridge 1.5mL
+f134.	Humalog 100iu/mL cartridges 1.5mL
+f135.	Humalog 100iu/mL cartridge 3mL
+f138.	HUMALOG KWIKPEN 100iu/mL prefilled pen 3mL
+f141.	NovoRapid 100units/mL injection vial
+f143.	NovoRapid Penfill 100units/mL cartridge 3mL
+f144.	NovoRapid FlexPen 100units/mL prefilled pen 3mL
+f14z.	Insulin aspart 100units/mL cartridge
+f151.	Apidra 100iu/mL injection vials 10mL
+f25H.	INSUMAN BASAL SOLOSTAR 100iu/mL prefilled pen 3mL
+f25o.	Humulin I 100iu/mL cartridges 3mL
+f25q.	Human Insulatard Penfill 1.5mL
+f25r.	Pork Insulatard 100units/mL injection 10mL
+f25x.	Insulatard (human) Penfill cartridge 3mL
+f27L.	Human Mixtard 30 Penfill 1.5mL
+f27V.	Pork Mixtard 30 injection 10mL
+f27e.	Humulin M3 30/70 cartridges 1.5mL
+f27z.	Humulin M3 30/70 cartridges 3mL
+f283.	Mixtard 30 (human) Penfill cartridge 3mL
+f28E.	HUMULIN M3 KWIKPEN 100iu/mL prefilled pen 3mL
+f291.	Insulin glargine 100iu/mL injection cartridge
+f293.	Insulin glargine 100iu/mL prefilled pen
+f294.	Lantus 100iu/mL injection cartridge 3mL
+f298.	LANTUS 100iu/mL SoloStar prefilled pen 3mL
+f2A1.	Levemir Penfill 100iu/mL injection cartridge 3mL
+f2A2.	Levemir FlexPen 100iu/mL prefilled pen 3mL
+f2Ay.	Insulin detemir 100iu/mL prefilled pen
+f331.	Glibenclamide 2.5mg tablet
+f332.	Glibenclamide 5mg tablet
+f35x.	GLICLAZIDE 40mg tablets
+f35y.	Gliclazide 30mg m/r tablet
+f35z.	Gliclazide 80mg tablet
+f3A1.	Glimepiride 2mg tablet
+f3A3.	Glimepiride 1mg tablet
+f3A4.	Glimepiride 3mg tablet
+f3A5.	Glimepiride 4mg tablet
+f411.	Glucophage 500mg tablet
+f417.	Glucophage SR 500mg m/r tablet
+f419.	GLUCOPHAGE SR 750mg m/r tablets
+f41A.	GLUCOPHAGE SR 1000mg m/r tablets
+f41I.	SUKKARTO SR 500mg m/r tablets
+f41J.	SUKKARTO SR 1000mg m/r tablets
+f41u.	METFORMIN HYDROCHLORIDE 1000mg m/r tablets
+f41v.	METFORMIN HYDROCHLORIDE 750mg m/r tablets
+f41x.	Metformin hydrochloride 500mg m/r tablet
+f41y.	Metformin hydrochloride 500mg tablet
+f41z.	Metformin hydrochloride 850mg tablet
+f731.	Glucogel dextrose gel
+f737.	GLUCOGEL berry flavour oral gel 25g
+f73z.	Dextrose 40% oral gel
+f91y.	Liothyronine sodium 20micrograms tablet
+f921.	Levothyroxine sodium 25micrograms tablet
+f922.	Levothyroxine sodium 50micrograms tablet
+f923.	Levothyroxine sodium 100micrograms tablet
+fa1y.	Carbimazole 20mg tablet
+fa1z.	Carbimazole 5mg tablet
+fa31.	Propylthiouracil 50mg tablet
+fb1z.	Fludrocortisone acetate 100micrograms tablet
+fe41.	Hydrocortisone 10mg tablet
+fe5b.	Depo-Medrone 40mg/1mL injection
+fe61.	Prednisolone 1mg tablet
+fe62.	Prednisolone 5mg tablet
+fe6h.	Prednisolone 2.5mg e/c tablet
+fe6i.	Prednisolone 5mg e/c tablet
+fe6j.	Prednisolone 5mg soluble tablet
+fe83.	Kenalog 40mg/mL injection
+fe84.	Kenalog 40mg/1mL prefilled syringe
+fe8w.	Triamcinolone acetonide 40mg/1mL i-m prefilled syringe
+fe8x.	Triamcinolone 40mg/1mL injection
+ff11.	Ethinylestradiol 10micrograms tablet
+ff26.	Hormonin tablet
+ff28.	Progynova 2mg tablet
+ff29.	Estraderm TTS 25micrograms patch
+ff2C.	Oestrogel 1.25g gel
+ff2L.	Elleste-Solo 2mg tablet
+ff2M.	Estradiol valerate 1mg tablet
+ff2N.	Elleste-Solo 1mg tablet
+ff2Q.	Estraderm MX 25 patch
+ff2R.	Estraderm MX 50 patch
+ff2a.	Estraderm TTS 50micrograms patch
+ff2b.	Estraderm TTS 100micrograms patch
+ff2d.	Vagifem 25mcg pessary
+ff2e.	Estradiol 25micrograms pessary
+ff2f.	Climaval 1mg tablet
+ff2g.	Climaval 2mg tablet
+ff2h.	Zumenon 2mg tablet
+ff2i.	Elleste-Solo MX 40 patch
+ff2j.	Evorel 50 patch
+ff2l.	Evorel 25 patch
+ff2n.	Evorel 75 patch
+ff2p.	Estradiol 75micrograms patch
+ff2r.	Estradiol 50micrograms patches
+ff2y.	Estradiol 1mg tablet
+ff2z.	Estradiol 2mg tablet
+ff41.	Premarin 625micrograms tablet
+ff42.	Premarin 1.25mg tablet
+ff4w.	CONJUGATED OESTROGENS 300micrograms tablets
+ff4x.	Conjugated oestrogens 625micrograms tablet
+ff81.	Tibolone 2.5mg tablet
+ff83.	Livial 2.5mg tablets x84
+ff91.	Sandrena 1mg gel
+ff95.	Estradiol 0.06% gel
+ff97.	Estraderm MX 75 patch
+ff9C.	Aerodiol 150micrograms nasal spray
+ff9I.	Estradot 50micrograms patch
+ff9J.	Estradot 75micrograms patch
+ff9K.	Estradot 100micrograms patch
+ff9M.	VAGIFEM 10micrograms vaginal tablets
+ff9x.	ESTRADIOL 10micrograms vaginal tablets
+ff9z.	Estradiol hemihydrate 150micrograms nasal spray
+fg21.	Duphaston 10mg tablet
+fg22.	Duphaston-HRT 10mg tablet
+fg2z.	Dydrogesterone 10mg tablet
+fg44.	Provera 5mg tablet
+fg45.	Provera 10mg tablet
+fg46.	Medroxyprogesterone acetate 10mg tablet
+fg4z.	Medroxyprogesterone acetate 5mg tablet
+fg51.	Norethisterone 5mg tablet
+fg52.	Primolut-N 5mg tablet
+fg53.	Utovlan 5mg tablet
+fg6C.	UTROGESTAN 100mg capsules
+fh11.	Cyclo-Progynova 1mg tablet
+fh17.	Prempak-C 0.625 tablets x1 month
+fh18.	Prempak-C 1.25 tablets X1 month
+fh19.	Trisequens tablet
+fh1B.	Kliofem tablet
+fh1E.	Femoston 2/10 tablet
+fh1F.	Tridestra tablet
+fh1G.	Femoston 1/10 tablet
+fh1H.	Elleste Duet 2mg tablet
+fh1L.	Climesse tablet
+fh1M.	Elleste Duet 1mg tablet
+fh1N.	Evorel Sequi patch
+fh1O.	Evorel Conti patch
+fh1Q.	Elleste Duet Conti tablet
+fh1S.	Kliovance 1mg/0.5mg tablet
+fh1U.	Femoston-conti tablet
+fh1a.	Prempak-C 0.625 tablets x3 months
+fh1b.	Prempak-C 1.25 tablets X3 months
+fh1d.	Nuvelle tablet
+fh1e.	Estracombi TTS patches x8
+fh1f.	Climagest tablets X1 month
+fh1g.	Climagest tablets X3 months
+fh1h.	Climagest 1mg tablet
+fh1j.	Climagest 2mg tablet
+fh1k.	Premique 0.625mg/5mg tablet
+fh1v.	Premique Low Dose 0.3mg/1.5mg tablet
+fi46.	Andropatch 2.5mg/24hours transdermal patch
+fi4B.	Testosterone 50mg/5g gel
+fi4C.	Testogel 50mg gel 5g sachet
+fi4E.	Nebido 1000mg/4mL solution for injection
+fi4x.	Testosterone undecanoate 1000mg/4mL solution for injection
+fi54.	Sustanon 250 oily injection
+fi62.	Finasteride 5mg tablet
+fi71.	Dutasteride 500micrograms capsule
+fl13.	Desmospray 10micrograms nasal spray
+fl14.	Desmopressin acetate 10micrograms nasal spray
+fo14.	Didronel PMO tablet
+fo44.	Fosamax Once Weekly 70mg tablet
+fo4x.	Alendronic acid 70mg / colecalciferol 70micrograms tablet
+fo4y.	Alendronic acid 70mg tablet
+fo6x.	Risedronate sodium 35mg tablet
+fo6y.	Risedronate sodium 5mg tablet
+fo8x.	Ibandronic acid 150mg tablet
+fp13.	Bromocriptine 2.5mg tablet
+ft31.	Repaglinide 0.5mg tablet
+ft33.	Repaglinide 2mg tablet
+ft4u.	Rosiglitazone 2mg / Metformin 1000mg tablet
+ft4v.	Rosiglitazone 4mg / Metformin 1000mg tablet
+ft4y.	Rosiglitazone 8mg tablet
+ft4z.	Rosiglitazone 4mg tablet
+ft5x.	Pioglitazone 45mg tablet
+ft5y.	Pioglitazone 30mg tablet
+ft5z.	Pioglitazone 15mg tablet
+ft6z.	Nateglinide 60mg tablet
+ft8y.	SITAGLIPTIN 50mg tablets
+ft8z.	SITAGLIPTIN 100mg tablets
+ft93.	BYDUREON 2mg powder and solvent for suspension for injection
+ft94.	BYDUREON 2mg powder+solvent for susp for inj prefilled pen
+ft9y.	EXENATIDE 10micrograms/0.04mL injection prefilled pen
+ftc1.	VICTOZA 6mg/mL solution for injection prefilled pen 3mL
+ftc2.	LIRAGLUTIDE 6mg/mL solution for injection prefilled pen
+ftf2.	LINAGLIPTIN 5mg tablets
+fth4.	DAPAGLIFLOZIN 10mg tablets
+fto2.	EMPAGLIFLOZIN 10mg tablets
+fto4.	EMPAGLIFLOZIN 25mg tablets
+fu11.	Cabergoline 500micrograms tablet
+fu51.	Protelos 2g sachets
+fv11.	Raloxifene hydrochloride 60mg tablet
+fw11.	Humalog Mix25 100iu/mL cartridge 3mL
+fw15.	HUMALOG MIX25 KWIKPEN 100iu/mL prefilled pen 3mL
+fw21.	NovoMix 30 Penfill 100units/mL injection cartridge 3mL
+fw22.	NovoMix 30 FlexPen 100units/mL injection prefilled pen 3mL
+g332.	Ovestin 0.1% vaginal cream 15g
+g333.	Ortho-Gynest cream 78g
+g335.	Estriol 0.01% cream 78g
+g33y.	ESTRIOL 0.01% vaginal cream
+g33z.	Estriol 0.1% vaginal cream 15g
+g422.	Canesten 1% cream 50g
+g425.	Canesten 200mg pessary
+g427.	Canesten 500mg pessary
+g429.	Clotrimazole 1% cream
+g42A.	Canesten Combi pessary+cream
+g42r.	Clotrimazole 500mg/2% pessary+cream
+g42v.	Clotrimazole 2% vaginal cream
+g42x.	Clotrimazole 200mg pessary
+g42y.	Clotrimazole 500mg pessary
+g521.	Clindamycin 2% cream
+g811.	Marvelon tablet
+g812.	Mercilon tablet
+g831.	Eugynon 30 tablet
+g832.	Logynon tablet
+g834.	Microgynon 30 tablet
+g837.	Ovranette tablet
+g838.	Schering PC4 tablet
+g839.	Trinordiol tablet
+g865.	Ovysmen tablet
+g867.	Trinovum tablet
+g873.	Loestrin 20 tablet
+g874.	Loestrin 30 tablet
+g881.	Minulet tablet
+g882.	Femodene tablet
+g891.	Cilest tablet
+g8A1.	Yasmin tablet
+ga11.	Femulen tablet
+ga21.	Microval tablet
+ga22.	Norgeston tablet
+ga26.	Levonorgestrel 52mg intrauterine system
+ga27.	Mirena 52mg intrauterine system
+ga34.	Medroxyprogesterone acetate 150mg/1mL injection
+ga35.	Medroxyprogesterone acetate 150mg/1mL prefilled syringe
+ga36.	Depo-Provera 150mg/1mL prefilled syringe
+ga41.	Neogest tablet
+ga51.	Micronor tablet
+ga52.	Noriday tablet 28CP
+ga53.	Noriday tablet 84CP
+ga8A.	Desogestrel 75micrograms tablet
+ga8B.	Cerazette 75micrograms tablet
+ga8F.	ZELLETA 75micrograms tablets
+gc61.	Alfuzosin hydrochloride 2.5mg tablet
+gc65.	Xatral XL 10mg m/r tablet
+gc6z.	Alfuzosin hydrochloride 10mg m/r tablet
+gc71.	Tamsulosin hydrochloride 400micrograms m/r capsule
+gc73.	Tamsulosin hydrochloride 400micrograms m/r tablet
+gc76.	Tabphyn MR 400micrograms m/r capsule
+gc81.	DUTASTERIDE+TAMSULOSIN HYDROCHLORIDE 0.5mg/0.4mg capsules
+gc82.	COMBODART capsules
+gdA1.	Tolterodine L-tartrate 1mg tablet
+gdA2.	Tolterodine L-tartrate 2mg tablet
+gdA5.	Tolterodine L-tartrate 4mg m/r capsule
+gdAA.	NEDITOL XL 4mg m/r capsules
+gda1.	Oxybutynin hydrochloride 2.5mg tablet
+gda2.	Ditropan 2.5mg tablet
+gda3.	Oxybutynin hydrochloride 5mg tablet
+gda4.	Ditropan 5mg tablet
+gdax.	Oxybutynin 3.9mg/24hours transdermal patch
+gday.	Oxybutynin hydrochloride 5mg m/r tablet
+gdaz.	Oxybutynin hydrochloride 10mg m/r tablet
+gddy.	Solifenacin succinate 10mg tablet
+gddz.	Solifenacin succinate 5mg tablet
+gdew.	Duloxetine 60mg gastro-resistant capsule
+gdex.	Duloxetine 30mg gastro-resistant capsule
+gdey.	Duloxetine 20mg gastro-resistant capsule
+gdez.	Duloxetine 40mg gastro-resistant capsule
+gdh4.	MIRABEGRON 50mg m/r tablets
+gh51.	Sildenafil 25mg tablet
+gh52.	Sildenafil 50mg tablet
+gh53.	Sildenafil 100mg tablet
+gh55.	Viagra 50mg tablet
+gh71.	Tadalafil 10mg tablet
+gh72.	Tadalafil 20mg tablet
+gh74.	TADALAFIL 5mg tablets
+gh7y.	Cialis 10mg tablet
+gh7z.	Cialis 20mg tablet
+gh81.	Vardenafil 5mg tablet
+gh82.	Vardenafil 10mg tablet
+gh83.	Vardenafil 20mg tablet
+h341.	Methotrexate 2.5mg tablet
+h342.	Methotrexate 10mg tablet
+h34p.	Maxtrex 2.5mg tablet
+h71x.	Azathioprine 50mg tablet
+h71y.	Azathioprine 25mg tablet
+h826.	Ciclosporin 25mg capsule
+h827.	Ciclosporin 100mg capsule
+h829.	Ciclosporin 50mg capsule
+h82A.	Neoral 25mg capsule
+h82B.	Neoral 50mg capsule
+h82C.	Neoral 100mg capsule
+h831.	Tacrolimus 1mg capsule
+h834.	Prograf 1mg capsule
+h83z.	Tacrolimus 0.5mg capsule
+h843.	Mycophenolate mofetil 500mg tablet
+h844.	CellCept 500mg tablet
+he42.	Tamoxifen 20mg tablet
+he52.	Goserelin 3.6mg implant
+heB2.	Decapeptyl SR 3mg injection (pdr for recon)+diluent
+heC1.	Anastrozole 1mg tablet
+heC2.	Arimidex 1mg tablet
+heE1.	Letrozole 2.5mg tablet
+heGz.	Exemestane 25mg tablet
+i118.	Ferrous fumarate 305mg capsule
+i119.	Ferrous fumarate 322mg tablet
+i11t.	Ferrous fumarate 210mg tablet
+i121.	Ferrous gluconate 300mg tablet
+i151.	Ferrous sulphate 200mg tablet
+i16d.	Pregaday tablet
+i19d.	Forceval capsule
+i312.	Hydroxocobalamin 1mg/1mL injection
+i32v.	Cyanocobalamin 50micrograms tablet
+i332.	Folic acid 5mg tablet
+i334.	Folic acid 400micrograms tablet
+i812.	Sodium chloride 9mg/mL solution
+i941.	Sodium chloride 0.9% intravenous injection 2mL
+i942.	Sodium chloride 0.9% intravenous injection 5mL
+i943.	Sodium chloride 0.9% intravenous injection 10mL
+i944.	Sodium chloride 0.9% intravenous injection 20mL
+i945.	Sodium chloride 0.9% intravenous injection 50mL
+id1G.	Juvela GF fibre loaf 400g
+id1I.	Glutafin fibre mix 500g
+id1Y.	Glutafin crackers 200g
+id1Z.	Glutafin high fibre crackers 200g
+id1w.	Glutafin biscuits 200g
+idCq.	WARBURTONS GF sliced brown bread 400g
+idCt.	JUVELA GF fibre flakes 300g
+idd3.	Thick & Easy powder
+idmD.	Juvela gluten free/wheat free sliced bread
+idmH.	Juvela gluten free fibre bread rolls
+idmK.	Lifestyle gluten free white sliced bread
+idmp.	Glutafin GF pasta spirals 500g
+idmv.	Glutafin sliced bread 400g
+idmx.	Glutafin Select gluten free white mix
+idoB.	Juvela GF mix 500g
+idoC.	Juvela GF sliced fibre bread 400g
+idoU.	Glutafin GF multigrain sliced fibre loaf 400g
+idoY.	Glutafin GF part baked white rollsx4
+idst.	Juvela GF pizza base 2x180g
+idvo.	Glutafin Select Fresh GF white sliced bread 400g
+idvz.	Glutafin Select Seeded GF loaf 400g
+idw7.	Glutafin GF shortbread biscuits 100g
+idwH.	Juvela GF fresh baked white loaf 400g
+idz1.	Gluten-free biscuits
+ie9V.	Nutrison Energy Multi Fibre liquid 1 litre
+ig1m.	Calcium carbonate 1.25g tablet
+ig1y.	Adcal 600mg chewable tablet
+in23.	Pyridoxine hydrochloride 50mg tablet
+in44.	Thiamine hydrochloride 50mg tablet
+in45.	Thiamine hydrochloride 100mg tablet
+in71.	Vitamin B compound tablet
+in72.	Vitamin B compound strong tablet
+io12.	Ascorbic acid 50mg tablet
+ip11.	One-Alpha 250nanograms capsule
+ip12.	One-Alpha 1mcg capsule
+ip16.	Alfacalcidol 250nanograms capsule
+ip17.	Alfacalcidol 1microgram capsule
+ip1f.	One-Alpha 500nanograms capsule
+ip1z.	Alfacalcidol 500nanograms capsule
+ip34.	Ergocalciferol 7.5mg(300,000units)/1mL injection
+ip39.	Calceos chewable tablet
+ip3G.	COLECALCIFEROL 1000iu tablets
+ip3K.	FULTIUM-D3 3200iu capsules
+ip3O.	THEICAL-D3 1000mg/880iu chewable tablets
+ip3a.	Calcium+ergocalciferol 400units tablet
+ip3b.	Calcichew D3 tablet
+ip3c.	Calcium carbonate+colecalciferol 1.25g/5micrograms tablet
+ip3e.	Calcium carbonate+colecalciferol 1.25g/10micrograms tablet
+ip3f.	Calcichew D3 Forte tablet
+ip3h.	Cacit D3 granules
+ip3i.	Calcium carbonate+colecalciferol 1.5g/10micrograms chewable tablet
+ip3j.	Adcal-D3 1.5g/10micrograms chewable tablet
+ip3l.	Calfovit D3 powder for oral suspension
+ip3m.	ADCAL-D3 LEMON 1.5g/10micrograms chewable tablets
+ip3o.	ADCAL D3 DISSOLVE effervescent tablets
+ip3p.	CALCIUM CARBONATE+COLECALCIFEROL 1.5g/400iu effervescent tablets
+ip3t.	KALCIPOS-D 500mg/800iu chewable tablets
+ip3u.	ADCAL D3 750mg/200iu caplets
+ip3v.	CALCIUM CARBONATE+COLECALCIFEROL 750mg/200iu tablets
+ip3y.	FULTIUM-D3 800iu capsules
+iq14.	Ephynal 50mg tablet
+is11.	Vitamins capsule BPC
+is1i.	Multivitamins tablets
+j111.	Aspirin 300mg tablet
+j112.	Aspirin 300mg dispersible tablet
+j222.	Voltarol 50mg e/c tablet
+j224.	Voltarol 100mg suppository
+j226.	Voltarol Retard 100mg m/r tablet
+j22C.	Diclofenac sodium 75mg m/r capsule
+j22G.	Diclofenac sodium 50mg suppository
+j22R.	Diclofenac sodium 75mg e/c+m/r capsule
+j22a.	Diclofenac sodium 100mg suppository
+j22c.	Diclofenac sodium 100mg m/r tablet
+j22d.	Diclofenac sodium 25mg e/c tablet
+j22e.	Diclofenac sodium 50mg e/c tablet
+j22i.	Diclofenac sodium 50mg dispersible tablet
+j22n.	Voltarol SR 75mg m/r tablet
+j22o.	Arthrotec 50 tablet
+j22p.	Diclofenac sodium+misoprostol 50mg/200micrograms tablet
+j22r.	Diclofenac sodium 100mg m/r capsule
+j22t.	Diclofenac sodium+misoprostol 75mg/200micrograms tablet
+j22v.	Diclofenac sodium 50mg tablets
+j22y.	Diclofenac sodium 75mg m/r tablet
+j22z.	Arthrotec 75 tablet
+j249.	Etodolac 600mg m/r tablet
+j281.	Ibuprofen 200mg tablet
+j282.	Ibuprofen 400mg tablet
+j283.	Ibuprofen 600mg tablet
+j288.	Brufen 400mg tablet
+j28B.	Ibuprofen 800mg m/r tablet
+j291.	Indometacin 25mg capsule
+j292.	Indometacin 50mg capsule
+j29y.	Indometacin 75mg m/r capsule
+j2ay.	Ketoprofen 100mg m/r capsule
+j2az.	Ketoprofen 200mg m/r capsule
+j2b1.	Mefenamic acid 250mg capsule
+j2b3.	Ponstan Forte 500mg tablet
+j2bx.	Mefenamic acid 500mg tablet
+j2c1.	Naproxen 250mg tablet
+j2c2.	Naproxen 500mg tablet
+j2c6.	Naprosyn 500mg tablet
+j2ck.	Naproxen 250mg e/c tablet
+j2cl.	Naproxen 500mg e/c tablet
+j2e2.	Piroxicam 20mg capsule
+j2i2.	Brexidol 20mg tablet
+j2j1.	Acemetacin 60mg capsule
+j2k2.	Nabumetone 500mg tablet
+j2m2.	Aceclofenac 100mg tablet
+j2n2.	Meloxicam 7.5mg tablet
+j2n3.	Meloxicam 15mg tablet
+j2n5.	Mobic 7.5mg tablet
+j2oT.	DICLOFENAC SODIUM+MISOPROSTOL 75mg/200micrograms m/r tablets
+j2r2.	Voltarol Rapid 50mg tablet
+j2rz.	Diclofenac potassium 50mg tablet
+j435.	Depo-Medrone+Lidocaine 80mg/20mg/2mL injection
+j436.	Depo-Medrone+Lidocaine 40mg/10mg/1mL injection
+j461.	Adcortyl Intra-articular/Intradermal 10mg/1mL injection
+j463.	Kenalog Intra-articular/Intramuscular 40mg/1mL injection
+j46z.	Triamcinolone acetonide 40mg/1mL intra-articular/intramuscular inj
+j522.	Penicillamine 125mg tablet
+j523.	Penicillamine 250mg tablet
+j54z.	Hydroxychloroquine sulphate 200mg tablet
+j551.	Salazopyrin EN 500mg e/c tablet
+j55z.	Sulfasalazine 500mg e/c tablet
+j59x.	Leflunomide 10mg tablet
+j611.	Allopurinol 100mg tablet
+j612.	Allopurinol 300mg tablet
+j622.	Colchicine 500micrograms tablet
+j82y.	Baclofen 10mg tablet
+j871.	Tizanidine 2mg tablet
+jA1w.	Rofecoxib 12.5mg tablet
+jA1x.	Rofecoxib 25mg tablet
+jA2y.	Celecoxib 200mg capsule
+jA2z.	Celecoxib 100mg capsule
+jA51.	Etoricoxib 60mg tablet
+jA52.	Etoricoxib 90mg tablet
+jA53.	Etoricoxib 120mg tablet
+ja18.	Algesal cream
+ja1A.	Voltarol Emulgel Topical gel 100g
+ja1F.	Voltarol Emulgel Topical gel 20g
+ja1G.	Difflam 3% cream 15g
+ja1N.	Transvasin cream 40g
+ja1U.	Ibuprofen 5% gel
+ja1V.	Ketoprofen 2.5% gel
+ja1Y.	Diclofenac sodium 1% gel
+ja1m.	Difflam 3% cream 50g
+ja1n.	Difflam 3% cream 100g
+ja1r.	Movelat cream 100g
+ja1s.	Movelat topical gel 100g
+ja1t.	Transvasin cream 30g
+ja1y.	Piroxicam 0.5% gel
+ja27.	Diethylamine salicylate 10% cream BP
+ja2H.	Fenbid 5% gel 100g
+ja2M.	Fenbid 5% gel 30g
+ja2N.	Fenbid 5% gel 50g
+ja2S.	Capsaicin 0.025% cream
+ja2X.	Fenbid Forte 10% gel 100g
+ja2b.	Ibugel Forte 10% gel 100g
+ja2z.	Ibuprofen 10% gel
+ja33.	TRANSVASIN HEAT RUB cream 80g
+ja36.	MOVELAT cream 125g
+ja37.	MOVELAT gel 125g
+k321.	Chloramphenicol 0.5% eye drops
+k32w.	Chloramphenicol 1% eye ointment
+k3g1.	Fusidic acid 1% m/r eye drops
+k3g2.	Fucithalmic 1% eye drops 5g
+k611.	Otrivine-Antistin eye drops 10mL
+k626.	Betnesol-N eye drops
+k627.	Betnesol-N eye drops 10mL
+k62y.	Betamethasone 0.1% eye drops
+k641.	Maxidex eye drops 5mL
+k642.	Maxidex eye drops 10mL
+k645.	Dexamethasone sodium phosphate 0.1% single-use eye drops
+k651.	FML eye drops 5mL
+k652.	FML eye drops 10mL
+k68z.	Prednisolone 0.5% eye drops
+k691.	Opticrom eye drops 5mL
+k693.	Opticrom Aqueous 2% eye drops 13.5mL
+k69y.	Sodium cromoglicate 2% eye drops
+k6a1.	Prednisolone acet 1% eye drops 5mL
+k6a2.	Prednisolone acet 1% eye drops 10mL
+k6a3.	Pred Forte 1% eye drops 5mL
+k6a4.	Pred Forte 1% eye drops 10mL
+k6b2.	Alomide 0.1% eye drops 10mL
+k6e1.	Nedocromil sodium 2% eye drops
+k6jz.	Rimexolone 1% eye drops
+k812.	Diamox 250mg tablet
+k83z.	Betaxolol 0.5% eye drops
+k8f2.	Timoptol 0.5% eye drops 5mL
+k8fy.	Timolol 0.25% eye drops
+k8fz.	Timolol 0.5% eye drops
+k8g1.	Levobunolol hydrochloride 0.5% eye drops
+k8h1.	Dorzolamide 2% ophthalmic solution
+k8j1.	Brimonidine tartrate 0.2% eye drops
+k8j2.	Alphagan 0.2% eye drops 5mL
+k8k1.	Dorzolamide+timolol 2%/0.5% eye drops
+k8l1.	Azopt 10mg/mL eye drops 5mL
+k8lz.	Brinzolamide 10mg/mL eye drops
+k8p2.	Combigan 0.2%/0.5% eye drops 5mL
+k8r1.	BIMATOPROST 0.03% / TIMOLOL 0.5% eye drops
+k8r2.	GANFORT 0.03%/0.5% eye drops 3mL
+l12z.	Acetic acid 2% ear spray
+l321.	Locorten-vioform ear drops 7.5mL
+l323.	LOCORTEN-VIOFORM ear drops 10mL
+l355.	Gentisone HC ear drops 10mL
+l35z.	Gentamicin+hydrocortisone acetate 0.3%/1% ear drops
+l412.	Otosporin ear drops 5mL
+l413.	Otosporin ear drops 10mL
+l415.	Sofradex eye/ear drops 10mL
+l41b.	Otomize ear spray 5mL
+l811.	Beconase 50micrograms nasal spray
+l812.	Beconase 50micrograms aqueous nasal spray
+l815.	Nasobec Aqueous 50micrograms nasal spray
+l81z.	Beclometasone dipropionate 50micrograms aqueous nasal spray
+l832.	Rhinocort Aqua 100micrograms nasal spray
+l83x.	Budesonide 64micrograms aqueous nasal spray
+l83y.	Budesonide 100micrograms aqueous nasal spray
+l881.	Fluticasone propionate 50micrograms aqueous nasal spray
+l882.	Flixonase 50micrograms aqueous nasal spray
+l886.	AVAMYS 27.5micrograms nasal spray
+l887.	FLUTICASONE FUROATE 27.5micrograms nasal spray
+l8B1.	Triamcinolone acetonide 55microgram aqueous nasal spray
+l8B2.	Nasacort 55micrograms aqueous nasal spray
+l8D1.	Nasonex 0.05% aqueous nasal spray
+l8Dz.	Mometasone furoate monohydrate 0.05% aqueous nasal spray
+la15.	Naseptin cream 15g
+la1y.	Mupirocin 2% nasal ointment
+la1z.	Chlorhexidine hydrochloride+neomycin sulphate 0.1%/0.5% cream
+lb12.	Difflam 0.15% spray
+lb1y.	Benzydamine hydrochloride 0.15% oral rinse
+lb1z.	Benzydamine hydrochloride 0.15% spray
+lb61.	Choline salicylate 8.7% oral gel
+lc63.	Nystan 100,000units/mL suspension 30mL
+le26.	Chlorhexidine gluconate 0.2% mouthwash
+lf21.	Pilocarpine hydrochloride 5mg tablet
+m111.	Aqueous cream BP
+m115.	Diprobase cream 50g
+m11a.	Diprobase dispenser cream 500g
+m122.	Emulsifying ointment BP
+m123.	Hydrous ointment BP
+m12c.	Diprobase ointment 50g
+m12e.	Unguentum cream 50g
+m12f.	Unguentum cream 100g
+m12g.	Unguentum cream 500g
+m12i.	Unguentum dispenser 200mL
+m21A.	E45 lotion
+m21K.	Cetraben cream 50g
+m21L.	Cetraben cream 125g
+m21M.	Cetraben cream 500g
+m21N.	Doublebase gel 100g
+m21O.	Doublebase gel 500g
+m21q.	Aveeno cream 100mL
+m21y.	Epaderm ointment 125g
+m21z.	Epaderm ointment 500g
+m22B.	Oilatum cream 150g
+m22C.	Oilatum cream 500mL
+m22G.	Hydromol ointment 125g
+m22H.	Hydromol ointment 500g
+m22K.	OILATUM cream 1050mL
+m22L.	HYDROMOL ointment 1Kg
+m22f.	Oilatum cream 40g
+m22g.	Oilatum cream 80g
+m22i.	Hydromol cream 50g
+m22j.	Hydromol cream 100g
+m22k.	Hydromol cream 500g
+m236.	Sudocrem cream 25g
+m237.	Sudocrem cream 60g
+m238.	Sudocrem cream 125g
+m239.	Sudocrem cream 250g
+m23F.	ZEROBASE cream 50g
+m23k.	Sudocrem cream 400g
+m23o.	Sudocrem cream 30g
+m243.	Calmurid cream 50g
+m244.	Calmurid cream 100g
+m247.	Calmurid cream 400g
+m249.	Calmurid cream 500g
+m24B.	Balneum Plus cream 100g
+m24H.	Balneum Plus cream 175g
+m24I.	Balneum Plus cream 500g
+m24J.	E45 Itch Relief cream 50g
+m24K.	Balneum Plus cream 500g pump dispenser
+m24L.	E45 ITCH RELIEF cream 500g
+m24M.	FLEXITOL HEEL BALM cream 75g
+m24N.	FLEXITOL HEEL BALM cream 200g
+m24Y.	FLEXITOL HEEL BALM cream 500g
+m24Z.	FLEXITOL HEEL BALM 40g
+m255.	Balneum bath oil 200mL
+m256.	Balneum bath oil 500mL
+m257.	Balneum bath oil 1 litre
+m258.	Oilatum Emollient bath additive 150mL
+m259.	Oilatum Emollient bath additive 350mL
+m25B.	Balneum bath oil 150mL
+m25C.	Balneum Plus bath oil 150mL
+m25N.	DOUBLEBASE EMOLLIENT shower gel 200g
+m25f.	Balneum Plus bath oil 500mL
+m25j.	Oilatum Emollient bath additive 250mL
+m25k.	Oilatum Emollient bath additive 500mL
+m271.	Oilatum Plus bath emollient
+m272.	Dermol 500 lotion
+m273.	Dermol 200 shower emollient 200mL
+m274.	Oilatum Plus bath emollient 500mL
+m275.	Oilatum Plus bath emollient 1 litre
+m277.	Dermol cream 100g
+m278.	Dermol cream 500g
+m283.	CETRABEN cream 150g
+m284.	CETRABEN cream 1050g
+m286.	EPADERM ointment 1kg
+m289.	AVEENO cream 300mL
+m28C.	AVEENO cream 500mL
+m28G.	EPIMAX cream 500g
+m28a.	EPADERM cream 50g
+m28b.	EPADERM cream 500g
+m32z.	Crotamiton 10% cream
+m33s.	LIDOCAINE 5% 10cmx14cm patches
+m411.	Hydrocortisone 1% cream 15g
+m412.	Hydrocortisone 1% cream 30g
+m413.	Hydrocortisone 1% cream 50g
+m414.	Hydrocortisone 1% cream 100g
+m417.	Hydrocortisone 0.5% cream 15g
+m418.	Hydrocortisone 0.5% cream 30g
+m419.	Hydrocortisone 0.5% cream 50g
+m41A.	Hydrocortisone 2.5% cream 15g
+m41B.	Hydrocortisone 2.5% cream 30g
+m41C.	Hydrocortisone 2.5% cream 50g
+m422.	Hydrocortisone 1% ointment 15g
+m423.	Hydrocortisone 1% ointment 30g
+m424.	Hydrocortisone 1% ointment 100g
+m42A.	Hydrocortisone 2.5% ointment 15g
+m42D.	HYDROCORTISONE 1% ointment 50g
+m453.	Canesten-HC cream 30g
+m454.	Daktacort cream 30g
+m457.	Fucidin-H cream 15g
+m458.	Fucidin-H cream 30g
+m45A.	Fucidin-H cream 60g
+m45V.	Hydrocortisone acetate+fusidic acid 1%/2% cream
+m45X.	Hydrocortisone+miconazole nitrate 1%/2% ointment
+m45Y.	Hydrocortisone+miconazole nitrate 1%/2% cream
+m45Z.	Hydrocortisone+clotrimazole 1%/1% cream
+m45s.	Timodine cream 30g
+m481.	Betnovate 0.1% cream 15g
+m482.	Betnovate 0.1% cream 30g
+m483.	Betnovate 0.1% cream 100g
+m484.	Betnovate 0.1% ointment 15g
+m485.	Betnovate 0.1% ointment 30g
+m486.	Betnovate 0.1% ointment 100g
+m488.	Betnovate 0.1% scalp application 30mL
+m489.	Betnovate 0.1% scalp application 100mL
+m48a.	Betnovate RD 0.025% cream 100g
+m48b.	Betnovate RD 0.025% ointment 100g
+m48c.	Diprosalic 0.05% ointment 30g
+m48d.	Diprosalic 0.05% ointment 100g
+m48m.	Betamethasone 0.025% cream
+m48n.	Betamethasone 0.025% ointment
+m48o.	Betamethasone 0.1% scalp application
+m48p.	Betnovate 0.1% cream pump dispenser 100g
+m48q.	Betamethasone 0.1% cream
+m48r.	Betamethasone 0.1% ointment
+m48t.	Betnovate 0.1% ointment pump dispenser 100g
+m49c.	Fucibet cream 15g
+m49d.	Fucibet cream 30g
+m49e.	Fucibet cream 60g
+m49v.	Betamethasone+fusidic acid 0.1/2% cream
+m4a1.	Dermovate 0.05% cream 30g
+m4a2.	Dermovate 0.05% cream 100g
+m4a3.	Dermovate 0.05% ointment 30g
+m4a4.	Dermovate 0.05% ointment 100g
+m4a5.	Dermovate 0.25% scalp application 25mL
+m4a6.	Dermovate 0.05% scalp application 100mL
+m4a9.	Clobetasol 0.05% cream 30g
+m4aa.	Clobetasol 0.05% cream 100g
+m4ab.	Clobetasol 0.05% ointment 30g
+m4ac.	Clobetasol 0.05% ointment 100g
+m4af.	Dermovate 0.05% scalp application 30mL
+m4ay.	Clobetasol scalp application 100g
+m4b1.	Eumovate 0.05% cream 30g
+m4b2.	Eumovate 0.05% cream 100g
+m4b3.	Eumovate 0.05% ointment 30g
+m4b4.	Eumovate 0.05% ointment 100g
+m4b5.	Trimovate cream 30g
+m4b7.	Eumovate 0.05% cream 15g
+m4by.	Clobetasone butyrate 0.05% cream
+m4bz.	Clobetasone butyrate 0.05% ointment
+m4g4.	Synalar 0.025% gel 30g
+m4g8.	Synalar 1:4 cream 50g
+m4gj.	SYNALAR 0.025% gel 60g
+m4gz.	Fluocinolone acetonide 0.025% cream
+m4hx.	Fluocinonide 0.05% cream
+m4hy.	Fluocinonide 0.05% ointment
+m4j7.	HAELAN 4micrograms/square centimetre 7.5cmx50cm tape
+m4j8.	HAELAN 4micrograms/square centimetre 7.5cmx200cm tape
+m4ju.	FLUDROXYCORTIDE 4micrograms/square centimetre 7.5x200cm tape
+m4jv.	FLUDROXYCORTIDE 4micrograms/square centimetre 7.5x50cm tape
+m4l1.	Locoid 0.1% cream 30g
+m4l2.	Locoid 0.1% cream 100g
+m4l3.	Locoid 0.1% lipocream 30g
+m4la.	Locoid 0.1% lipocream 100g
+m4q4.	Mometasone furoate 0.1% cream 30g
+m4r1.	Cutivate 0.05% cream
+m4s1.	NULL
+m4s2.	NULL
+m581.	Gamolenic acid 40mg capsule
+m582.	Epogam 40 capsule
+m584.	Efamast 40 capsule
+m589.	Gamolenic acid 80mg capsule
+m58A.	Epogam 80 capsule
+m591.	Calcipotriol 50micrograms/g ointment
+m592.	Dovonex 0.005% ointment 30g
+m593.	Dovonex 0.005% ointment 100g
+m594.	Dovonex 50micrograms/g cream
+m595.	Calcipotriol 50micrograms/g cream
+m597.	Calcipotriol 50micrograms/mL scalp solution
+m598.	Dovonex 50micrograms/g ointment
+m599.	Dovonex 0.005% ointment 60g
+m59A.	Dovonex 0.005% ointment 120g
+m59B.	Dovonex 0.005% cream 30g
+m59C.	Dovonex 0.005% cream 60g
+m59D.	Dovonex 0.005% cream 120g
+m59F.	Dovonex 0.005% ointment 240g
+m59G.	Calcipotriol+betamethasone 50micrograms/500micrograms/g ointment
+m59H.	Dovobet ointment 120g
+m59I.	Dovobet ointment 60g
+m59N.	DOVOBET ointment 30g
+m5E2.	Tacrolimus monohydrate 0.1% ointment
+m673.	Zineryt lotion 30mL
+m676.	Erythromycin+zinc acetate 40mg/12mg/mL topical solution
+m677.	Zineryt lotion 90mL
+m681.	Dalacin T 10mg/mL solution 30mL
+m683.	Clindamycin 1% roll-on lotion
+m685.	Dalacin T 10mg/mL solution 50mL
+m68A.	Duac Once Daily gel 25g
+m68C.	Duac Once Daily gel 50g
+m68J.	DUAC ONCE DAILY 5%/1% gel 30g
+m68K.	DUAC ONCE DAILY 5%/1% gel 60g
+m712.	Dianette tablet
+m71z.	Cyproterone acetate+ethinylestradiol 2mg/35micrograms tablet
+mb1D.	Alphosyl 2-in-1 combined shampoo and conditioner 125mL
+mb1E.	Alphosyl 2-in-1 combined shampoo and conditioner 250mL
+mb1F.	Polytar liquid 250mL
+mb1G.	Polytar liquid 500mL
+mb1L.	Cocois scalp ointment
+mb1M.	Nizoral 20mg/mL shampoo 120mL
+mb1P.	Nizoral Anti-Dandruff 20mg/mL shampoo 60mL
+mb1R.	Cocois scalp ointment 100g
+mb1S.	Cocois scalp ointment 40g
+mb1U.	Selenium sulphide 2.5% shampoo
+mb1i.	Polytar liquid 65mL
+mb1j.	Polytar liquid 150mL
+mb1k.	Polytar liquid 350mL
+mb1u.	Nizoral Dandruff 20mg/mL shampoo 100mL
+mb1v.	Ketoconazole 2% shampoo
+mb1z.	Capasal shampoo 250mL
+mc5z.	Mupirocin 2% ointment
+md21.	Fucidin 2% cream 15g
+md22.	Fucidin 2% cream 30g
+md2v.	Fusidic acid 2% cream
+me62.	Ketoconazole 2% cream
+me71.	Miconazole 2% cream
+me7y.	Miconazole nitrate 0.16% powder spray
+mef1.	Tioconazole 28% solution 12mL
+meg3.	Metrogel 0.75% gel 40g
+meg5.	Rozex 0.75% gel
+meg8.	Metronidazole 0.75% gel
+megA.	Metronidazole 0.75% cream
+megu.	Metronidazole 0.75% gel 30g
+megw.	Metronidazole 0.75% gel 15g
+megz.	Metronidazole 0.75% gel 40g
+meh1.	Amorolfine 5% nail lacquer
+meh2.	Loceryl lacquer 5mL
+meh8.	LOCERYL 5% medicated nail lacquer 2.5mL
+mej1.	Lamisil 1% cream 15g
+mej3.	Terbinafine hydrochloride 1% cream 15g
+mej4.	Terbinafine hydrochloride 1% cream 30g
+mejz.	Terbinafine hydrochloride 1% cream
+mf11.	Zovirax 5% cream 2g
+mf12.	Zovirax 5% cream 10g
+mf1y.	Aciclovir 5% cream 10g
+mf1z.	Aciclovir 5% cream
+mg83.	Permethrin 5% cream 30g
+mif7.	Irriclens aerosol
+mt1z.	Diclofenac sodium 3% gel
+o424.	Fentanyl 25micrograms/hour patch
+o42R.	Fentanyl 12micrograms/hour patch
