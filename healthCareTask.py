@@ -56,8 +56,8 @@ print("Percentage of linked patient - " + str(round(count*100/patients["id"].cou
 
 # Ques 5
 
-#patients with date recorded after 02/03/1980
-pt_date_recorded = clinical_data[clinical_data["date_recorded"] > "02/03/1980"]
+#patients with date recorded after 12/03/1980
+pt_date_recorded = clinical_data[clinical_data["date_recorded"] > "12/03/1980"]
 pat_count = pt_date_recorded["patient_id"].value_counts().to_frame()
 pat_count.columns = ["num_records"]
 pat_count["patient_id"] = pat_count.index
